@@ -152,4 +152,16 @@ class Admin_model extends CI_Model
     {
         return  $this->insert_data('community', $val);
     }
+    public function count_interest()
+    {
+        return count($this->get_data('interest'));
+    }
+    public function count_category()
+    {
+        return count($this->get_data('category'));
+    }
+    public function count_subcategory()
+    {
+        return count($this->get_data('subcategory'));
+    }
 }

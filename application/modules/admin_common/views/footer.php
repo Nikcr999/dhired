@@ -43,7 +43,9 @@ defined('BASEPATH') or exit('No direct script access allowed');
 
 <!-- Apex Chart -->
 <script src="<?= base_url() ?>admin_assets/vendor/apexchart/apexchart.js"></script>
-
+<!-- Datatable -->
+<script src="<?= base_url() ?>admin_assets/vendor/datatables/js/jquery.dataTables.min.js"></script>
+<script src="<?= base_url() ?>admin_assets/js/plugins-init/datatables.init.js"></script>
 <!-- Dashboard 1 -->
 <script src="<?= base_url() ?>admin_assets/js/dashboard/dashboard-1.js"></script>
 <!-- Dropzone -->

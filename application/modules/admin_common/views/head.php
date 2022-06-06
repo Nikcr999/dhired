@@ -13,6 +13,8 @@ defined('BASEPATH') or exit('No direct script access allowed');
 	<link rel="stylesheet" href="<?= base_url() ?>admin_assets/vendor/chartist/css/chartist.min.css">
 	<link href="<?= base_url() ?>admin_assets/vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet">
 	<link href="<?= base_url() ?>admin_assets/vendor/owl-carousel/owl.carousel.css" rel="stylesheet">
+	<!-- Datatable -->
+    <link href="<?= base_url() ?>admin_assets/vendor/datatables/css/jquery.dataTables.min.css" rel="stylesheet">
 	 <!-- DropBox -->
 	<link rel="stylesheet" href="<?= base_url() ?>dropzone/css/dropify.min.css">
 	<link href="<?= base_url() ?>admin_assets/css/style.css" rel="stylesheet">

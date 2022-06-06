@@ -5,10 +5,13 @@ class Admin extends MX_Controller {
 
 	public function index()
 	{
+		$dashboard['i'] =$this->Admin_model->count_interest();
+		$dashboard['c'] =$this->Admin_model->count_category();
+		$dashboard['s'] =$this->Admin_model->count_subcategory();
 		$this->load->view('admin_common/head');
 		$this->load->view('admin_common/header');
 		$this->load->view('admin_common/sidebar');
-		$this->load->view('dashboard');
+		$this->load->view('dashboard',$dashboard);
 		$this->load->view('admin_common/footer');
 	}
 	public function add_country()

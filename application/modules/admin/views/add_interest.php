@@ -58,7 +58,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                     </div>
                     <div class="card-body">
                         <div class="table-responsive">
-                            <table class="table table-responsive-md">
+                            <table id="example" class="table table-responsive-md">
                                 <thead>
                                     <tr>
                                         <th class="width80">#ID</th>
