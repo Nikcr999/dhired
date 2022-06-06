@@ -90,6 +90,16 @@ class Admin extends MX_Controller {
 		$this->load->view('add_interest',$interest);
 		$this->load->view('admin_common/footer');
 	}
+	public function fetch_category()
+	{
+		if(isset($_POST) && !empty($_POST)){
+			$d = $this->Admin_model->fetch_category($_POST['interest_id']);
+			// echo $d;
+			foreach($d as $details){
+				echo '<option value="'.$details['id'].'">'.$details['title'].'</option>';
+			}
+		}
+	}
 	public function add_category()
 	{
 		$category['i'] = $this->Admin_model->get_interest();
@@ -117,6 +127,48 @@ class Admin extends MX_Controller {
 		$this->load->view('admin_common/header');
 		$this->load->view('admin_common/sidebar');
 		$this->load->view('add_category',$category);
+		$this->load->view('admin_common/footer');
+	}
+	public function add_subcategory()
+	{
+		$subcategory['i'] = $this->Admin_model->get_interest();
+		$subcategory['sub'] = $this->Admin_model->get_subcategory();
+		if(isset($_POST) && !empty($_POST)){
+			$this->Admin_model->add_subcategory($_POST);
+			redirect('admin/add_subcategory');
+		}
+		$this->load->view('admin_common/head');
+		$this->load->view('admin_common/header');
+		$this->load->view('admin_common/sidebar');
+		$this->load->view('add_subcategory',$subcategory);
+		$this->load->view('admin_common/footer');
+	}
+	public function add_socialmedia()
+	{
+		$social['soc'] = $this->Admin_model->get_socialmedia();
+		if(isset($_POST) && !empty($_POST)){
+			if (isset($_FILES) && !empty($_FILES)) {
+				$var = date('dMY') . rand(1111, 9999);
+				$config['upload_path']          = './admin_assets/social/';
+				$config['allowed_types']        = 'jpg|jpeg|png|JPG|JPEG|PNG';
+				$config['file_name']            = $var;
+				$this->load->library('upload');
+				$this->upload->initialize($config);
+				if (!$this->upload->do_upload('icon')) {
+					print_r($this->upload->display_errors());
+				}
+				$w = $this->upload->data();
+				$_POST['icon'] = $w['file_name'];
+				$query3 = $this->Admin_model->add_socialmedia($_POST);
+				if($query3){
+					redirect('admin/add_socialmedia');
+				}
+			}
+		}
+		$this->load->view('admin_common/head');
+		$this->load->view('admin_common/header');
+		$this->load->view('admin_common/sidebar');
+		$this->load->view('add_socialmedia',$social);
 		$this->load->view('admin_common/footer');
 	}
 

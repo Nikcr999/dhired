@@ -41,7 +41,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 					<li><a href="<?= base_url('admin/add_subcategory') ?>">Add Subcategory</a></li>
 				</ul>
 			</li>
-			<li><a class="ai-icon" href="<?= base_url('admin/add_social') ?>" aria-expanded="false">
+			<li><a class="ai-icon" href="<?= base_url('admin/add_socialmedia	') ?>" aria-expanded="false">
 					<i class="flaticon-381-television"></i>
 					<span class="nav-text">Social Media</span>
 				</a>

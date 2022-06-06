@@ -27,7 +27,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                 <form action="" method="post" enctype="multipart/form-data">
                                     <div class="form-group col-md-10">
                                         <label>Select Interest</label>
-                                        <select class="form-control default-select" name="interest_id" required>
+                                        <select onchange="fetch_category()" class="form-control default-select" name="interest_id" id="interest" required>
                                             <option selected disabled value="">Choose Interest ....</option>
                                             <?php foreach ($i as $interest) { ?>
                                                 <option value="<?= $interest['id'] ?>"><?= $interest['title'] ?></option>
@@ -35,22 +35,20 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                         </select>
                                     </div>
                                     <div class="form-group col-md-10">
-                                        <label>Title</label>
-                                        <input type="text" name="title" class="form-control" placeholder="Enter title" required>
+                                        <label>Select Category</label>
+                                        <select class="form-control " name="category_id" id="category" required>
+                                            <option selected  value="">Choose Interest ....</option>
+                                        </select>
                                     </div>
                                     <div class="form-group col-md-10">
-                                        <label>Logo</label>
-                                        <input type="file" name="logo" placeholder="Upload Logo" class="dropify">
+                                        <label>Title</label>
+                                        <input type="text" name="title" class="form-control" placeholder="Enter title" required>
                                     </div>
                                     <div class="form-group col-md-10">
                                         <label>Description</label>
                                         <textarea class="summernote" name="description" placeholder="Enter Description"></textarea>
                                     </div>
-                                    <div class="form-group col-md-10 ">
-                                        <label>Status</label>
-                                        <input name="status" type="text" class="form-control" placeholder="Enter Status" />
-                                    </div>
-                                    <button type="submit" class="btn btn-primary">ADD Category</button>
+                                    <button type="submit" class="btn btn-primary">ADD Subcategory</button>
                                 </form>
                             </div>
                         </div>
@@ -63,7 +61,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
             <div class="col-xl-10 col-lg-12">
                 <div class="card">
                     <div class="card-header">
-                        <h4 class="card-title">Added Category</h4>
+                        <h4 class="card-title">Added SubCategory</h4>
                     </div>
                     <div class="card-body">
                         <div class="table-responsive">
@@ -72,22 +70,20 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                     <tr>
                                         <th class="width80">#ID</th>
                                         <th>Interest Name</th>
-                                        <th>Logo</th>
+                                        <th>Category Name</th>
                                         <th>Title</th>
                                         <th>Description</th>
-                                        <th>Status</th>
                                         <th>Action</th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <?php foreach ($c as $category) { ?>
+                                    <?php foreach ($sub as $subcategory) { ?>
                                         <tr>
-                                            <td><strong><?= $category['id'] ?></strong></td>
-                                            <td><?= $category['i_title'] ?></td>
-                                            <td><img src="<?= base_url() ?>/admin_assets/interest_logo/<?= $interest['logo'] ?>" width="70" alt="logo"></td>
-                                            <td><?= $category['cat_title'] ?></td>
-                                            <td><?= $category['description'] ?></td>
-                                            <td><?= $category['status'] ?></td>
+                                            <td><strong><?= $subcategory['id'] ?></strong></td>
+                                            <td><?= $subcategory['i_title'] ?></td>
+                                            <td><?= $subcategory['cat_title'] ?></td>
+                                            <td><?= $subcategory['subcat_title'] ?></td>
+                                            <td><?= $subcategory['description'] ?></td>
                                             <td>
                                                 <div class="d-flex">
                                                     <a href="#" class="btn btn-success shadow btn-xs sharp mr-1"><i class="fa fa-pencil"></i></a>
@@ -108,3 +104,21 @@ defined('BASEPATH') or exit('No direct script access allowed');
 <!--**********************************
             Content body end
         ***********************************-->
+        <script>
+    function fetch_category() {
+        iid = document.getElementById("interest").value;
+        // alert(iid);
+        var request = $.ajax({
+            url: "<?= base_url('admin/fetch_category') ?>",
+            type: "POST",
+            data: {
+                interest_id: iid
+            },
+            dataType: "html"
+        });
+        request.done(function(msg) {
+            // alert(msg);
+            $("#category").html(msg);
+        });
+    }
+</script>

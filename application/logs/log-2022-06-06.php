@@ -3624,3 +3624,2208 @@ DEBUG - 2022-06-06 08:46:53 --> File loaded: N:\Xampp\htdocs\dhired\application\
 DEBUG - 2022-06-06 08:46:53 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
 INFO - 2022-06-06 08:46:53 --> Final output sent to browser
 DEBUG - 2022-06-06 08:46:53 --> Total execution time: 0.0757
+INFO - 2022-06-06 12:07:44 --> Config Class Initialized
+INFO - 2022-06-06 12:07:44 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:07:44 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:07:44 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:07:44 --> URI Class Initialized
+DEBUG - 2022-06-06 12:07:44 --> No URI present. Default controller set.
+INFO - 2022-06-06 12:07:44 --> Router Class Initialized
+INFO - 2022-06-06 12:07:44 --> Output Class Initialized
+INFO - 2022-06-06 12:07:44 --> Security Class Initialized
+DEBUG - 2022-06-06 12:07:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:07:44 --> Input Class Initialized
+INFO - 2022-06-06 12:07:44 --> Language Class Initialized
+INFO - 2022-06-06 12:07:44 --> Language Class Initialized
+INFO - 2022-06-06 12:07:44 --> Config Class Initialized
+INFO - 2022-06-06 12:07:44 --> Loader Class Initialized
+INFO - 2022-06-06 12:07:44 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:07:44 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:07:44 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:07:44 --> Model Class Initialized
+DEBUG - 2022-06-06 12:07:44 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:07:44 --> Model Class Initialized
+INFO - 2022-06-06 12:07:44 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:07:44 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:07:44 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:07:44 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:07:44 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:07:44 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/dashboard.php
+DEBUG - 2022-06-06 12:07:44 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:07:44 --> Final output sent to browser
+DEBUG - 2022-06-06 12:07:44 --> Total execution time: 0.3913
+INFO - 2022-06-06 12:08:41 --> Config Class Initialized
+INFO - 2022-06-06 12:08:41 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:08:41 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:08:41 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:08:41 --> URI Class Initialized
+INFO - 2022-06-06 12:08:41 --> Router Class Initialized
+INFO - 2022-06-06 12:08:41 --> Output Class Initialized
+INFO - 2022-06-06 12:08:41 --> Security Class Initialized
+DEBUG - 2022-06-06 12:08:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:08:41 --> Input Class Initialized
+INFO - 2022-06-06 12:08:41 --> Language Class Initialized
+INFO - 2022-06-06 12:08:41 --> Language Class Initialized
+INFO - 2022-06-06 12:08:41 --> Config Class Initialized
+INFO - 2022-06-06 12:08:41 --> Loader Class Initialized
+INFO - 2022-06-06 12:08:41 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:08:41 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:08:41 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:08:41 --> Model Class Initialized
+DEBUG - 2022-06-06 12:08:41 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:08:41 --> Model Class Initialized
+INFO - 2022-06-06 12:08:41 --> Controller Class Initialized
+ERROR - 2022-06-06 12:08:41 --> 404 Page Not Found: ../modules/admin/controllers/Admin/add_subcategory
+INFO - 2022-06-06 12:08:42 --> Config Class Initialized
+INFO - 2022-06-06 12:08:42 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:08:42 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:08:42 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:08:42 --> URI Class Initialized
+DEBUG - 2022-06-06 12:08:42 --> No URI present. Default controller set.
+INFO - 2022-06-06 12:08:42 --> Router Class Initialized
+INFO - 2022-06-06 12:08:42 --> Output Class Initialized
+INFO - 2022-06-06 12:08:42 --> Security Class Initialized
+DEBUG - 2022-06-06 12:08:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:08:42 --> Input Class Initialized
+INFO - 2022-06-06 12:08:42 --> Language Class Initialized
+INFO - 2022-06-06 12:08:42 --> Language Class Initialized
+INFO - 2022-06-06 12:08:42 --> Config Class Initialized
+INFO - 2022-06-06 12:08:42 --> Loader Class Initialized
+INFO - 2022-06-06 12:08:42 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:08:42 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:08:42 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:08:42 --> Model Class Initialized
+DEBUG - 2022-06-06 12:08:42 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:08:42 --> Model Class Initialized
+INFO - 2022-06-06 12:08:42 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:08:42 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:08:42 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:08:42 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:08:42 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:08:42 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/dashboard.php
+DEBUG - 2022-06-06 12:08:42 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:08:42 --> Final output sent to browser
+DEBUG - 2022-06-06 12:08:42 --> Total execution time: 0.0376
+INFO - 2022-06-06 12:08:45 --> Config Class Initialized
+INFO - 2022-06-06 12:08:45 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:08:45 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:08:45 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:08:45 --> URI Class Initialized
+INFO - 2022-06-06 12:08:45 --> Router Class Initialized
+INFO - 2022-06-06 12:08:45 --> Output Class Initialized
+INFO - 2022-06-06 12:08:45 --> Security Class Initialized
+DEBUG - 2022-06-06 12:08:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:08:45 --> Input Class Initialized
+INFO - 2022-06-06 12:08:45 --> Language Class Initialized
+INFO - 2022-06-06 12:08:45 --> Language Class Initialized
+INFO - 2022-06-06 12:08:45 --> Config Class Initialized
+INFO - 2022-06-06 12:08:45 --> Loader Class Initialized
+INFO - 2022-06-06 12:08:45 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:08:45 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:08:45 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:08:45 --> Model Class Initialized
+DEBUG - 2022-06-06 12:08:45 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:08:45 --> Model Class Initialized
+INFO - 2022-06-06 12:08:45 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:08:45 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:08:45 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:08:45 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:08:45 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:08:45 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:08:45 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:08:45 --> Final output sent to browser
+DEBUG - 2022-06-06 12:08:45 --> Total execution time: 0.1309
+INFO - 2022-06-06 12:10:12 --> Config Class Initialized
+INFO - 2022-06-06 12:10:12 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:10:12 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:10:12 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:10:12 --> URI Class Initialized
+INFO - 2022-06-06 12:10:12 --> Router Class Initialized
+INFO - 2022-06-06 12:10:12 --> Output Class Initialized
+INFO - 2022-06-06 12:10:12 --> Security Class Initialized
+DEBUG - 2022-06-06 12:10:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:10:12 --> Input Class Initialized
+INFO - 2022-06-06 12:10:12 --> Language Class Initialized
+INFO - 2022-06-06 12:10:12 --> Language Class Initialized
+INFO - 2022-06-06 12:10:12 --> Config Class Initialized
+INFO - 2022-06-06 12:10:12 --> Loader Class Initialized
+INFO - 2022-06-06 12:10:12 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:10:12 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:10:12 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:10:12 --> Model Class Initialized
+DEBUG - 2022-06-06 12:10:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:10:12 --> Model Class Initialized
+INFO - 2022-06-06 12:10:12 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:10:12 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:10:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:10:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:10:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:10:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:10:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:10:12 --> Final output sent to browser
+DEBUG - 2022-06-06 12:10:12 --> Total execution time: 0.0390
+INFO - 2022-06-06 12:10:14 --> Config Class Initialized
+INFO - 2022-06-06 12:10:14 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:10:14 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:10:14 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:10:14 --> URI Class Initialized
+INFO - 2022-06-06 12:10:14 --> Router Class Initialized
+INFO - 2022-06-06 12:10:14 --> Output Class Initialized
+INFO - 2022-06-06 12:10:14 --> Security Class Initialized
+DEBUG - 2022-06-06 12:10:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:10:14 --> Input Class Initialized
+INFO - 2022-06-06 12:10:14 --> Language Class Initialized
+INFO - 2022-06-06 12:10:14 --> Language Class Initialized
+INFO - 2022-06-06 12:10:14 --> Config Class Initialized
+INFO - 2022-06-06 12:10:14 --> Loader Class Initialized
+INFO - 2022-06-06 12:10:14 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:10:14 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:10:14 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:10:14 --> Model Class Initialized
+DEBUG - 2022-06-06 12:10:14 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:10:14 --> Model Class Initialized
+INFO - 2022-06-06 12:10:14 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:10:14 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:10:14 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:10:14 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:10:14 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:10:14 --> Severity: Notice --> Undefined variable: i N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 32
+ERROR - 2022-06-06 12:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 32
+ERROR - 2022-06-06 12:10:14 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 83
+ERROR - 2022-06-06 12:10:14 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 83
+DEBUG - 2022-06-06 12:10:14 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:10:14 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:10:14 --> Final output sent to browser
+DEBUG - 2022-06-06 12:10:14 --> Total execution time: 0.0441
+INFO - 2022-06-06 12:10:56 --> Config Class Initialized
+INFO - 2022-06-06 12:10:56 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:10:56 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:10:56 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:10:56 --> URI Class Initialized
+INFO - 2022-06-06 12:10:56 --> Router Class Initialized
+INFO - 2022-06-06 12:10:56 --> Output Class Initialized
+INFO - 2022-06-06 12:10:56 --> Security Class Initialized
+DEBUG - 2022-06-06 12:10:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:10:56 --> Input Class Initialized
+INFO - 2022-06-06 12:10:56 --> Language Class Initialized
+INFO - 2022-06-06 12:10:56 --> Language Class Initialized
+INFO - 2022-06-06 12:10:56 --> Config Class Initialized
+INFO - 2022-06-06 12:10:56 --> Loader Class Initialized
+INFO - 2022-06-06 12:10:56 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:10:56 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:10:56 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:10:56 --> Model Class Initialized
+DEBUG - 2022-06-06 12:10:56 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:10:56 --> Model Class Initialized
+INFO - 2022-06-06 12:10:56 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:10:56 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:10:56 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:10:56 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:10:56 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:10:56 --> Severity: Notice --> Undefined variable: cat N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 32
+ERROR - 2022-06-06 12:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 32
+ERROR - 2022-06-06 12:10:56 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 83
+ERROR - 2022-06-06 12:10:56 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 83
+DEBUG - 2022-06-06 12:10:56 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:10:56 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:10:56 --> Final output sent to browser
+DEBUG - 2022-06-06 12:10:56 --> Total execution time: 0.0374
+INFO - 2022-06-06 12:11:33 --> Config Class Initialized
+INFO - 2022-06-06 12:11:33 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:11:33 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:11:33 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:11:33 --> URI Class Initialized
+INFO - 2022-06-06 12:11:33 --> Router Class Initialized
+INFO - 2022-06-06 12:11:33 --> Output Class Initialized
+INFO - 2022-06-06 12:11:33 --> Security Class Initialized
+DEBUG - 2022-06-06 12:11:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:11:33 --> Input Class Initialized
+INFO - 2022-06-06 12:11:33 --> Language Class Initialized
+INFO - 2022-06-06 12:11:33 --> Language Class Initialized
+INFO - 2022-06-06 12:11:33 --> Config Class Initialized
+INFO - 2022-06-06 12:11:33 --> Loader Class Initialized
+INFO - 2022-06-06 12:11:33 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:11:33 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:11:33 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:11:33 --> Model Class Initialized
+DEBUG - 2022-06-06 12:11:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:11:33 --> Model Class Initialized
+INFO - 2022-06-06 12:11:33 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:11:33 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:11:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:11:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:11:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:11:33 --> Severity: Notice --> Undefined index: title N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 33
+ERROR - 2022-06-06 12:11:33 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 83
+ERROR - 2022-06-06 12:11:33 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 83
+DEBUG - 2022-06-06 12:11:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:11:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:11:33 --> Final output sent to browser
+DEBUG - 2022-06-06 12:11:33 --> Total execution time: 0.0384
+INFO - 2022-06-06 12:12:25 --> Config Class Initialized
+INFO - 2022-06-06 12:12:25 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:12:25 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:12:25 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:12:25 --> URI Class Initialized
+INFO - 2022-06-06 12:12:25 --> Router Class Initialized
+INFO - 2022-06-06 12:12:25 --> Output Class Initialized
+INFO - 2022-06-06 12:12:25 --> Security Class Initialized
+DEBUG - 2022-06-06 12:12:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:12:25 --> Input Class Initialized
+INFO - 2022-06-06 12:12:25 --> Language Class Initialized
+INFO - 2022-06-06 12:12:25 --> Language Class Initialized
+INFO - 2022-06-06 12:12:25 --> Config Class Initialized
+INFO - 2022-06-06 12:12:25 --> Loader Class Initialized
+INFO - 2022-06-06 12:12:25 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:12:25 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:12:25 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:12:25 --> Model Class Initialized
+DEBUG - 2022-06-06 12:12:25 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:12:25 --> Model Class Initialized
+INFO - 2022-06-06 12:12:25 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:12:25 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:12:58 --> Config Class Initialized
+INFO - 2022-06-06 12:12:58 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:12:58 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:12:58 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:12:58 --> URI Class Initialized
+INFO - 2022-06-06 12:12:58 --> Router Class Initialized
+INFO - 2022-06-06 12:12:58 --> Output Class Initialized
+INFO - 2022-06-06 12:12:58 --> Security Class Initialized
+DEBUG - 2022-06-06 12:12:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:12:58 --> Input Class Initialized
+INFO - 2022-06-06 12:12:58 --> Language Class Initialized
+INFO - 2022-06-06 12:12:58 --> Language Class Initialized
+INFO - 2022-06-06 12:12:58 --> Config Class Initialized
+INFO - 2022-06-06 12:12:58 --> Loader Class Initialized
+INFO - 2022-06-06 12:12:58 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:12:58 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:12:58 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:12:58 --> Model Class Initialized
+DEBUG - 2022-06-06 12:12:58 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:12:58 --> Model Class Initialized
+INFO - 2022-06-06 12:12:58 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:12:58 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:12:58 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:12:58 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:12:58 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:12:58 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 83
+ERROR - 2022-06-06 12:12:58 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 83
+DEBUG - 2022-06-06 12:12:58 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:12:58 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:12:58 --> Final output sent to browser
+DEBUG - 2022-06-06 12:12:58 --> Total execution time: 0.0382
+INFO - 2022-06-06 12:13:13 --> Config Class Initialized
+INFO - 2022-06-06 12:13:13 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:13:13 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:13:13 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:13:13 --> URI Class Initialized
+INFO - 2022-06-06 12:13:13 --> Router Class Initialized
+INFO - 2022-06-06 12:13:13 --> Output Class Initialized
+INFO - 2022-06-06 12:13:13 --> Security Class Initialized
+DEBUG - 2022-06-06 12:13:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:13:13 --> Input Class Initialized
+INFO - 2022-06-06 12:13:13 --> Language Class Initialized
+INFO - 2022-06-06 12:13:13 --> Language Class Initialized
+INFO - 2022-06-06 12:13:13 --> Config Class Initialized
+INFO - 2022-06-06 12:13:13 --> Loader Class Initialized
+INFO - 2022-06-06 12:13:13 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:13:13 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:13:13 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:13:13 --> Model Class Initialized
+DEBUG - 2022-06-06 12:13:13 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:13:13 --> Model Class Initialized
+INFO - 2022-06-06 12:13:13 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:13:13 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:13:13 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:13:13 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:13:13 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:13:13 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:13:13 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:13:13 --> Final output sent to browser
+DEBUG - 2022-06-06 12:13:13 --> Total execution time: 0.0437
+INFO - 2022-06-06 12:14:17 --> Config Class Initialized
+INFO - 2022-06-06 12:14:17 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:14:17 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:14:17 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:14:17 --> URI Class Initialized
+INFO - 2022-06-06 12:14:17 --> Router Class Initialized
+INFO - 2022-06-06 12:14:17 --> Output Class Initialized
+INFO - 2022-06-06 12:14:17 --> Security Class Initialized
+DEBUG - 2022-06-06 12:14:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:14:17 --> Input Class Initialized
+INFO - 2022-06-06 12:14:17 --> Language Class Initialized
+INFO - 2022-06-06 12:14:17 --> Language Class Initialized
+INFO - 2022-06-06 12:14:17 --> Config Class Initialized
+INFO - 2022-06-06 12:14:17 --> Loader Class Initialized
+INFO - 2022-06-06 12:14:17 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:14:17 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:14:17 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:14:17 --> Model Class Initialized
+DEBUG - 2022-06-06 12:14:17 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:14:17 --> Model Class Initialized
+INFO - 2022-06-06 12:14:17 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:14:17 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:14:18 --> Upload Class Initialized
+INFO - 2022-06-06 12:14:18 --> Language file loaded: language/english/upload_lang.php
+ERROR - 2022-06-06 12:14:18 --> The upload path does not appear to be valid.
+INFO - 2022-06-06 12:14:18 --> Config Class Initialized
+INFO - 2022-06-06 12:14:18 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:14:18 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:14:18 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:14:18 --> URI Class Initialized
+INFO - 2022-06-06 12:14:18 --> Router Class Initialized
+INFO - 2022-06-06 12:14:18 --> Output Class Initialized
+INFO - 2022-06-06 12:14:18 --> Security Class Initialized
+DEBUG - 2022-06-06 12:14:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:14:18 --> Input Class Initialized
+INFO - 2022-06-06 12:14:18 --> Language Class Initialized
+INFO - 2022-06-06 12:14:18 --> Language Class Initialized
+INFO - 2022-06-06 12:14:18 --> Config Class Initialized
+INFO - 2022-06-06 12:14:18 --> Loader Class Initialized
+INFO - 2022-06-06 12:14:18 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:14:18 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:14:18 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:14:18 --> Model Class Initialized
+DEBUG - 2022-06-06 12:14:18 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:14:18 --> Model Class Initialized
+INFO - 2022-06-06 12:14:18 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:14:18 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:14:18 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:14:18 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:14:18 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:14:18 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:14:18 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:14:18 --> Final output sent to browser
+DEBUG - 2022-06-06 12:14:18 --> Total execution time: 0.0395
+INFO - 2022-06-06 12:15:32 --> Config Class Initialized
+INFO - 2022-06-06 12:15:32 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:15:32 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:15:32 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:15:32 --> URI Class Initialized
+INFO - 2022-06-06 12:15:32 --> Router Class Initialized
+INFO - 2022-06-06 12:15:32 --> Output Class Initialized
+INFO - 2022-06-06 12:15:32 --> Security Class Initialized
+DEBUG - 2022-06-06 12:15:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:15:32 --> Input Class Initialized
+INFO - 2022-06-06 12:15:32 --> Language Class Initialized
+INFO - 2022-06-06 12:15:32 --> Language Class Initialized
+INFO - 2022-06-06 12:15:32 --> Config Class Initialized
+INFO - 2022-06-06 12:15:32 --> Loader Class Initialized
+INFO - 2022-06-06 12:15:32 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:15:32 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:15:32 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:15:32 --> Model Class Initialized
+DEBUG - 2022-06-06 12:15:32 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:15:32 --> Model Class Initialized
+INFO - 2022-06-06 12:15:32 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:15:32 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:15:32 --> Upload Class Initialized
+INFO - 2022-06-06 12:15:32 --> Language file loaded: language/english/upload_lang.php
+ERROR - 2022-06-06 12:15:32 --> The upload path does not appear to be valid.
+INFO - 2022-06-06 12:15:32 --> Config Class Initialized
+INFO - 2022-06-06 12:15:32 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:15:32 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:15:32 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:15:32 --> URI Class Initialized
+INFO - 2022-06-06 12:15:32 --> Router Class Initialized
+INFO - 2022-06-06 12:15:32 --> Output Class Initialized
+INFO - 2022-06-06 12:15:32 --> Security Class Initialized
+DEBUG - 2022-06-06 12:15:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:15:32 --> Input Class Initialized
+INFO - 2022-06-06 12:15:32 --> Language Class Initialized
+INFO - 2022-06-06 12:15:32 --> Language Class Initialized
+INFO - 2022-06-06 12:15:32 --> Config Class Initialized
+INFO - 2022-06-06 12:15:32 --> Loader Class Initialized
+INFO - 2022-06-06 12:15:32 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:15:32 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:15:32 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:15:32 --> Model Class Initialized
+DEBUG - 2022-06-06 12:15:32 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:15:32 --> Model Class Initialized
+INFO - 2022-06-06 12:15:32 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:15:32 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:15:32 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:15:32 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:15:32 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:15:32 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:15:32 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:15:32 --> Final output sent to browser
+DEBUG - 2022-06-06 12:15:32 --> Total execution time: 0.0445
+INFO - 2022-06-06 12:15:38 --> Config Class Initialized
+INFO - 2022-06-06 12:15:38 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:15:38 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:15:38 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:15:38 --> URI Class Initialized
+INFO - 2022-06-06 12:15:38 --> Router Class Initialized
+INFO - 2022-06-06 12:15:38 --> Output Class Initialized
+INFO - 2022-06-06 12:15:38 --> Security Class Initialized
+DEBUG - 2022-06-06 12:15:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:15:38 --> Input Class Initialized
+INFO - 2022-06-06 12:15:38 --> Language Class Initialized
+INFO - 2022-06-06 12:15:38 --> Language Class Initialized
+INFO - 2022-06-06 12:15:38 --> Config Class Initialized
+INFO - 2022-06-06 12:15:38 --> Loader Class Initialized
+INFO - 2022-06-06 12:15:38 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:15:38 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:15:38 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:15:38 --> Model Class Initialized
+DEBUG - 2022-06-06 12:15:38 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:15:38 --> Model Class Initialized
+INFO - 2022-06-06 12:15:38 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:15:38 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:15:38 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:15:38 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:15:38 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:15:38 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 83
+ERROR - 2022-06-06 12:15:38 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 83
+DEBUG - 2022-06-06 12:15:38 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:15:38 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:15:38 --> Final output sent to browser
+DEBUG - 2022-06-06 12:15:38 --> Total execution time: 0.0392
+INFO - 2022-06-06 12:16:33 --> Config Class Initialized
+INFO - 2022-06-06 12:16:33 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:16:33 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:16:33 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:16:33 --> URI Class Initialized
+INFO - 2022-06-06 12:16:33 --> Router Class Initialized
+INFO - 2022-06-06 12:16:33 --> Output Class Initialized
+INFO - 2022-06-06 12:16:33 --> Security Class Initialized
+DEBUG - 2022-06-06 12:16:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:16:33 --> Input Class Initialized
+INFO - 2022-06-06 12:16:33 --> Language Class Initialized
+INFO - 2022-06-06 12:16:33 --> Language Class Initialized
+INFO - 2022-06-06 12:16:33 --> Config Class Initialized
+INFO - 2022-06-06 12:16:33 --> Loader Class Initialized
+INFO - 2022-06-06 12:16:33 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:16:33 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:16:33 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:16:33 --> Model Class Initialized
+DEBUG - 2022-06-06 12:16:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:16:33 --> Model Class Initialized
+INFO - 2022-06-06 12:16:33 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:16:33 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:16:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:16:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:16:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:16:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:16:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:16:33 --> Final output sent to browser
+DEBUG - 2022-06-06 12:16:33 --> Total execution time: 0.0428
+INFO - 2022-06-06 12:17:02 --> Config Class Initialized
+INFO - 2022-06-06 12:17:02 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:17:02 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:17:02 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:17:02 --> URI Class Initialized
+INFO - 2022-06-06 12:17:02 --> Router Class Initialized
+INFO - 2022-06-06 12:17:02 --> Output Class Initialized
+INFO - 2022-06-06 12:17:02 --> Security Class Initialized
+DEBUG - 2022-06-06 12:17:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:17:02 --> Input Class Initialized
+INFO - 2022-06-06 12:17:02 --> Language Class Initialized
+INFO - 2022-06-06 12:17:02 --> Language Class Initialized
+INFO - 2022-06-06 12:17:02 --> Config Class Initialized
+INFO - 2022-06-06 12:17:02 --> Loader Class Initialized
+INFO - 2022-06-06 12:17:02 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:17:02 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:17:02 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:17:02 --> Model Class Initialized
+DEBUG - 2022-06-06 12:17:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:17:02 --> Model Class Initialized
+INFO - 2022-06-06 12:17:02 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:17:02 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:17:02 --> Upload Class Initialized
+INFO - 2022-06-06 12:17:02 --> Language file loaded: language/english/upload_lang.php
+ERROR - 2022-06-06 12:17:02 --> The upload path does not appear to be valid.
+INFO - 2022-06-06 12:17:02 --> Config Class Initialized
+INFO - 2022-06-06 12:17:02 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:17:02 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:17:02 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:17:02 --> URI Class Initialized
+INFO - 2022-06-06 12:17:02 --> Router Class Initialized
+INFO - 2022-06-06 12:17:02 --> Output Class Initialized
+INFO - 2022-06-06 12:17:02 --> Security Class Initialized
+DEBUG - 2022-06-06 12:17:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:17:02 --> Input Class Initialized
+INFO - 2022-06-06 12:17:02 --> Language Class Initialized
+INFO - 2022-06-06 12:17:02 --> Language Class Initialized
+INFO - 2022-06-06 12:17:02 --> Config Class Initialized
+INFO - 2022-06-06 12:17:02 --> Loader Class Initialized
+INFO - 2022-06-06 12:17:02 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:17:02 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:17:02 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:17:02 --> Model Class Initialized
+DEBUG - 2022-06-06 12:17:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:17:02 --> Model Class Initialized
+INFO - 2022-06-06 12:17:02 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:17:02 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:17:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:17:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:17:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:17:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:17:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:17:02 --> Final output sent to browser
+DEBUG - 2022-06-06 12:17:02 --> Total execution time: 0.0397
+INFO - 2022-06-06 12:17:08 --> Config Class Initialized
+INFO - 2022-06-06 12:17:08 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:17:08 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:17:08 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:17:08 --> URI Class Initialized
+INFO - 2022-06-06 12:17:08 --> Router Class Initialized
+INFO - 2022-06-06 12:17:08 --> Output Class Initialized
+INFO - 2022-06-06 12:17:08 --> Security Class Initialized
+DEBUG - 2022-06-06 12:17:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:17:08 --> Input Class Initialized
+INFO - 2022-06-06 12:17:08 --> Language Class Initialized
+INFO - 2022-06-06 12:17:08 --> Language Class Initialized
+INFO - 2022-06-06 12:17:08 --> Config Class Initialized
+INFO - 2022-06-06 12:17:08 --> Loader Class Initialized
+INFO - 2022-06-06 12:17:08 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:17:08 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:17:08 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:17:08 --> Model Class Initialized
+DEBUG - 2022-06-06 12:17:08 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:17:08 --> Model Class Initialized
+INFO - 2022-06-06 12:17:08 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:17:08 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:17:08 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:17:08 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:17:08 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:17:08 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 83
+ERROR - 2022-06-06 12:17:08 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 83
+DEBUG - 2022-06-06 12:17:08 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:17:08 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:17:08 --> Final output sent to browser
+DEBUG - 2022-06-06 12:17:08 --> Total execution time: 0.0400
+INFO - 2022-06-06 12:18:12 --> Config Class Initialized
+INFO - 2022-06-06 12:18:12 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:18:12 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:18:12 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:18:12 --> URI Class Initialized
+INFO - 2022-06-06 12:18:12 --> Router Class Initialized
+INFO - 2022-06-06 12:18:12 --> Output Class Initialized
+INFO - 2022-06-06 12:18:12 --> Security Class Initialized
+DEBUG - 2022-06-06 12:18:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:18:12 --> Input Class Initialized
+INFO - 2022-06-06 12:18:12 --> Language Class Initialized
+INFO - 2022-06-06 12:18:12 --> Language Class Initialized
+INFO - 2022-06-06 12:18:12 --> Config Class Initialized
+INFO - 2022-06-06 12:18:12 --> Loader Class Initialized
+INFO - 2022-06-06 12:18:12 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:18:12 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:18:12 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:18:12 --> Model Class Initialized
+DEBUG - 2022-06-06 12:18:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:18:12 --> Model Class Initialized
+INFO - 2022-06-06 12:18:12 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:18:12 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:18:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:18:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:18:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:18:12 --> Severity: Notice --> Undefined variable: i N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 32
+ERROR - 2022-06-06 12:18:12 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 32
+ERROR - 2022-06-06 12:18:12 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 89
+ERROR - 2022-06-06 12:18:12 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 89
+DEBUG - 2022-06-06 12:18:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:18:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:18:12 --> Final output sent to browser
+DEBUG - 2022-06-06 12:18:12 --> Total execution time: 0.0422
+INFO - 2022-06-06 12:18:43 --> Config Class Initialized
+INFO - 2022-06-06 12:18:43 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:18:43 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:18:43 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:18:43 --> URI Class Initialized
+INFO - 2022-06-06 12:18:43 --> Router Class Initialized
+INFO - 2022-06-06 12:18:43 --> Output Class Initialized
+INFO - 2022-06-06 12:18:43 --> Security Class Initialized
+DEBUG - 2022-06-06 12:18:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:18:43 --> Input Class Initialized
+INFO - 2022-06-06 12:18:43 --> Language Class Initialized
+INFO - 2022-06-06 12:18:43 --> Language Class Initialized
+INFO - 2022-06-06 12:18:43 --> Config Class Initialized
+INFO - 2022-06-06 12:18:43 --> Loader Class Initialized
+INFO - 2022-06-06 12:18:43 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:18:43 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:18:43 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:18:43 --> Model Class Initialized
+DEBUG - 2022-06-06 12:18:43 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:18:43 --> Model Class Initialized
+INFO - 2022-06-06 12:18:43 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:18:43 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:18:43 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:18:43 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:18:43 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:18:43 --> Severity: Notice --> Undefined variable: i N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 32
+ERROR - 2022-06-06 12:18:43 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 32
+ERROR - 2022-06-06 12:18:43 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+ERROR - 2022-06-06 12:18:43 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+DEBUG - 2022-06-06 12:18:43 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:18:43 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:18:43 --> Final output sent to browser
+DEBUG - 2022-06-06 12:18:43 --> Total execution time: 0.0423
+INFO - 2022-06-06 12:18:51 --> Config Class Initialized
+INFO - 2022-06-06 12:18:51 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:18:51 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:18:51 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:18:51 --> URI Class Initialized
+INFO - 2022-06-06 12:18:51 --> Router Class Initialized
+INFO - 2022-06-06 12:18:51 --> Output Class Initialized
+INFO - 2022-06-06 12:18:51 --> Security Class Initialized
+DEBUG - 2022-06-06 12:18:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:18:51 --> Input Class Initialized
+INFO - 2022-06-06 12:18:51 --> Language Class Initialized
+INFO - 2022-06-06 12:18:51 --> Language Class Initialized
+INFO - 2022-06-06 12:18:51 --> Config Class Initialized
+INFO - 2022-06-06 12:18:51 --> Loader Class Initialized
+INFO - 2022-06-06 12:18:51 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:18:51 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:18:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:18:51 --> Model Class Initialized
+DEBUG - 2022-06-06 12:18:51 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:18:51 --> Model Class Initialized
+INFO - 2022-06-06 12:18:51 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:18:51 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:18:51 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:18:51 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:18:51 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:18:51 --> Severity: Notice --> Undefined variable: i N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 32
+ERROR - 2022-06-06 12:18:51 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 32
+ERROR - 2022-06-06 12:18:51 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+ERROR - 2022-06-06 12:18:51 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+DEBUG - 2022-06-06 12:18:51 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:18:51 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:18:51 --> Final output sent to browser
+DEBUG - 2022-06-06 12:18:51 --> Total execution time: 0.0487
+INFO - 2022-06-06 12:19:15 --> Config Class Initialized
+INFO - 2022-06-06 12:19:15 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:19:15 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:19:15 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:19:15 --> URI Class Initialized
+INFO - 2022-06-06 12:19:15 --> Router Class Initialized
+INFO - 2022-06-06 12:19:15 --> Output Class Initialized
+INFO - 2022-06-06 12:19:15 --> Security Class Initialized
+DEBUG - 2022-06-06 12:19:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:19:15 --> Input Class Initialized
+INFO - 2022-06-06 12:19:15 --> Language Class Initialized
+INFO - 2022-06-06 12:19:15 --> Language Class Initialized
+INFO - 2022-06-06 12:19:15 --> Config Class Initialized
+INFO - 2022-06-06 12:19:15 --> Loader Class Initialized
+INFO - 2022-06-06 12:19:15 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:19:15 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:19:15 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:19:15 --> Model Class Initialized
+DEBUG - 2022-06-06 12:19:15 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:19:15 --> Model Class Initialized
+INFO - 2022-06-06 12:19:15 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:19:15 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:19:15 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:19:15 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:19:15 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:19:15 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+ERROR - 2022-06-06 12:19:15 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+DEBUG - 2022-06-06 12:19:15 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:19:15 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:19:15 --> Final output sent to browser
+DEBUG - 2022-06-06 12:19:15 --> Total execution time: 0.0423
+INFO - 2022-06-06 12:25:00 --> Config Class Initialized
+INFO - 2022-06-06 12:25:00 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:25:00 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:25:00 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:25:00 --> URI Class Initialized
+INFO - 2022-06-06 12:25:00 --> Router Class Initialized
+INFO - 2022-06-06 12:25:00 --> Output Class Initialized
+INFO - 2022-06-06 12:25:00 --> Security Class Initialized
+DEBUG - 2022-06-06 12:25:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:25:00 --> Input Class Initialized
+INFO - 2022-06-06 12:25:00 --> Language Class Initialized
+INFO - 2022-06-06 12:25:00 --> Language Class Initialized
+INFO - 2022-06-06 12:25:00 --> Config Class Initialized
+INFO - 2022-06-06 12:25:00 --> Loader Class Initialized
+INFO - 2022-06-06 12:25:00 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:25:00 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:25:00 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:25:00 --> Model Class Initialized
+DEBUG - 2022-06-06 12:25:00 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:25:00 --> Model Class Initialized
+INFO - 2022-06-06 12:25:00 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:25:00 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:25:00 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:25:00 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:25:00 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:25:00 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+ERROR - 2022-06-06 12:25:00 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+DEBUG - 2022-06-06 12:25:00 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:25:00 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:25:00 --> Final output sent to browser
+DEBUG - 2022-06-06 12:25:00 --> Total execution time: 0.0437
+INFO - 2022-06-06 12:25:21 --> Config Class Initialized
+INFO - 2022-06-06 12:25:21 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:25:21 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:25:21 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:25:21 --> URI Class Initialized
+INFO - 2022-06-06 12:25:21 --> Router Class Initialized
+INFO - 2022-06-06 12:25:21 --> Output Class Initialized
+INFO - 2022-06-06 12:25:21 --> Security Class Initialized
+DEBUG - 2022-06-06 12:25:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:25:21 --> Input Class Initialized
+INFO - 2022-06-06 12:25:21 --> Language Class Initialized
+INFO - 2022-06-06 12:25:21 --> Language Class Initialized
+INFO - 2022-06-06 12:25:21 --> Config Class Initialized
+INFO - 2022-06-06 12:25:21 --> Loader Class Initialized
+INFO - 2022-06-06 12:25:21 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:25:21 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:25:21 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:25:21 --> Model Class Initialized
+DEBUG - 2022-06-06 12:25:21 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:25:21 --> Model Class Initialized
+INFO - 2022-06-06 12:25:21 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:25:21 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:25:21 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:25:21 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:25:21 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:25:21 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+ERROR - 2022-06-06 12:25:21 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+DEBUG - 2022-06-06 12:25:21 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:25:21 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:25:21 --> Final output sent to browser
+DEBUG - 2022-06-06 12:25:21 --> Total execution time: 0.0393
+INFO - 2022-06-06 12:25:50 --> Config Class Initialized
+INFO - 2022-06-06 12:25:50 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:25:50 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:25:50 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:25:50 --> URI Class Initialized
+INFO - 2022-06-06 12:25:50 --> Router Class Initialized
+INFO - 2022-06-06 12:25:50 --> Output Class Initialized
+INFO - 2022-06-06 12:25:50 --> Security Class Initialized
+DEBUG - 2022-06-06 12:25:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:25:50 --> Input Class Initialized
+INFO - 2022-06-06 12:25:50 --> Language Class Initialized
+INFO - 2022-06-06 12:25:50 --> Language Class Initialized
+INFO - 2022-06-06 12:25:50 --> Config Class Initialized
+INFO - 2022-06-06 12:25:50 --> Loader Class Initialized
+INFO - 2022-06-06 12:25:50 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:25:50 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:25:50 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:25:50 --> Model Class Initialized
+DEBUG - 2022-06-06 12:25:50 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:25:50 --> Model Class Initialized
+INFO - 2022-06-06 12:25:50 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:25:50 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:25:50 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:25:50 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:25:50 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:25:50 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+ERROR - 2022-06-06 12:25:50 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+DEBUG - 2022-06-06 12:25:50 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:25:50 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:25:50 --> Final output sent to browser
+DEBUG - 2022-06-06 12:25:50 --> Total execution time: 0.0408
+INFO - 2022-06-06 12:26:08 --> Config Class Initialized
+INFO - 2022-06-06 12:26:08 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:26:08 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:26:08 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:26:08 --> URI Class Initialized
+INFO - 2022-06-06 12:26:08 --> Router Class Initialized
+INFO - 2022-06-06 12:26:08 --> Output Class Initialized
+INFO - 2022-06-06 12:26:08 --> Security Class Initialized
+DEBUG - 2022-06-06 12:26:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:26:08 --> Input Class Initialized
+INFO - 2022-06-06 12:26:08 --> Language Class Initialized
+INFO - 2022-06-06 12:26:08 --> Language Class Initialized
+INFO - 2022-06-06 12:26:08 --> Config Class Initialized
+INFO - 2022-06-06 12:26:08 --> Loader Class Initialized
+INFO - 2022-06-06 12:26:08 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:26:08 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:26:08 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:26:08 --> Model Class Initialized
+DEBUG - 2022-06-06 12:26:08 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:26:08 --> Model Class Initialized
+INFO - 2022-06-06 12:26:08 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:26:08 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:26:08 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:26:08 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:26:08 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:26:08 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+ERROR - 2022-06-06 12:26:08 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+DEBUG - 2022-06-06 12:26:08 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:26:08 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:26:08 --> Final output sent to browser
+DEBUG - 2022-06-06 12:26:08 --> Total execution time: 0.0392
+INFO - 2022-06-06 12:26:30 --> Config Class Initialized
+INFO - 2022-06-06 12:26:30 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:26:30 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:26:30 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:26:30 --> URI Class Initialized
+INFO - 2022-06-06 12:26:30 --> Router Class Initialized
+INFO - 2022-06-06 12:26:30 --> Output Class Initialized
+INFO - 2022-06-06 12:26:30 --> Security Class Initialized
+DEBUG - 2022-06-06 12:26:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:26:30 --> Input Class Initialized
+INFO - 2022-06-06 12:26:30 --> Language Class Initialized
+INFO - 2022-06-06 12:26:30 --> Language Class Initialized
+INFO - 2022-06-06 12:26:30 --> Config Class Initialized
+INFO - 2022-06-06 12:26:30 --> Loader Class Initialized
+INFO - 2022-06-06 12:26:30 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:26:30 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:26:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:26:30 --> Model Class Initialized
+DEBUG - 2022-06-06 12:26:30 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:26:30 --> Model Class Initialized
+INFO - 2022-06-06 12:26:30 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:26:30 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:26:30 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:26:30 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:26:30 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:26:30 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+ERROR - 2022-06-06 12:26:30 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+DEBUG - 2022-06-06 12:26:30 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:26:30 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:26:30 --> Final output sent to browser
+DEBUG - 2022-06-06 12:26:30 --> Total execution time: 0.0404
+INFO - 2022-06-06 12:26:54 --> Config Class Initialized
+INFO - 2022-06-06 12:26:54 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:26:54 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:26:54 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:26:54 --> URI Class Initialized
+INFO - 2022-06-06 12:26:54 --> Router Class Initialized
+INFO - 2022-06-06 12:26:54 --> Output Class Initialized
+INFO - 2022-06-06 12:26:54 --> Security Class Initialized
+DEBUG - 2022-06-06 12:26:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:26:54 --> Input Class Initialized
+INFO - 2022-06-06 12:26:54 --> Language Class Initialized
+INFO - 2022-06-06 12:26:54 --> Language Class Initialized
+INFO - 2022-06-06 12:26:54 --> Config Class Initialized
+INFO - 2022-06-06 12:26:54 --> Loader Class Initialized
+INFO - 2022-06-06 12:26:54 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:26:54 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:26:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:26:54 --> Model Class Initialized
+DEBUG - 2022-06-06 12:26:54 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:26:54 --> Model Class Initialized
+INFO - 2022-06-06 12:26:54 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:26:54 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:26:54 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:26:54 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:26:54 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:26:54 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+ERROR - 2022-06-06 12:26:54 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+DEBUG - 2022-06-06 12:26:54 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:26:54 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:26:54 --> Final output sent to browser
+DEBUG - 2022-06-06 12:26:54 --> Total execution time: 0.0399
+INFO - 2022-06-06 12:27:41 --> Config Class Initialized
+INFO - 2022-06-06 12:27:41 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:27:41 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:27:41 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:27:41 --> URI Class Initialized
+INFO - 2022-06-06 12:27:41 --> Router Class Initialized
+INFO - 2022-06-06 12:27:41 --> Output Class Initialized
+INFO - 2022-06-06 12:27:41 --> Security Class Initialized
+DEBUG - 2022-06-06 12:27:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:27:41 --> Input Class Initialized
+INFO - 2022-06-06 12:27:41 --> Language Class Initialized
+INFO - 2022-06-06 12:27:41 --> Language Class Initialized
+INFO - 2022-06-06 12:27:41 --> Config Class Initialized
+INFO - 2022-06-06 12:27:41 --> Loader Class Initialized
+INFO - 2022-06-06 12:27:41 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:27:41 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:27:41 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:27:41 --> Model Class Initialized
+DEBUG - 2022-06-06 12:27:41 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:27:41 --> Model Class Initialized
+INFO - 2022-06-06 12:27:41 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:27:41 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:27:41 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:27:41 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:27:41 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:27:41 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+ERROR - 2022-06-06 12:27:41 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+DEBUG - 2022-06-06 12:27:41 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:27:41 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:27:41 --> Final output sent to browser
+DEBUG - 2022-06-06 12:27:41 --> Total execution time: 0.0389
+INFO - 2022-06-06 12:29:26 --> Config Class Initialized
+INFO - 2022-06-06 12:29:26 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:29:26 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:29:26 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:29:26 --> URI Class Initialized
+INFO - 2022-06-06 12:29:26 --> Router Class Initialized
+INFO - 2022-06-06 12:29:26 --> Output Class Initialized
+INFO - 2022-06-06 12:29:26 --> Security Class Initialized
+DEBUG - 2022-06-06 12:29:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:29:26 --> Input Class Initialized
+INFO - 2022-06-06 12:29:26 --> Language Class Initialized
+INFO - 2022-06-06 12:29:26 --> Language Class Initialized
+INFO - 2022-06-06 12:29:26 --> Config Class Initialized
+INFO - 2022-06-06 12:29:26 --> Loader Class Initialized
+INFO - 2022-06-06 12:29:26 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:29:26 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:29:26 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:29:26 --> Model Class Initialized
+DEBUG - 2022-06-06 12:29:26 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:29:26 --> Model Class Initialized
+INFO - 2022-06-06 12:29:26 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:29:26 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:29:26 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:29:26 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:29:26 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:29:26 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+ERROR - 2022-06-06 12:29:26 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+DEBUG - 2022-06-06 12:29:26 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:29:26 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:29:26 --> Final output sent to browser
+DEBUG - 2022-06-06 12:29:26 --> Total execution time: 0.0333
+INFO - 2022-06-06 12:29:29 --> Config Class Initialized
+INFO - 2022-06-06 12:29:29 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:29:29 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:29:29 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:29:29 --> URI Class Initialized
+INFO - 2022-06-06 12:29:29 --> Router Class Initialized
+INFO - 2022-06-06 12:29:29 --> Output Class Initialized
+INFO - 2022-06-06 12:29:29 --> Security Class Initialized
+DEBUG - 2022-06-06 12:29:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:29:29 --> Input Class Initialized
+INFO - 2022-06-06 12:29:29 --> Language Class Initialized
+INFO - 2022-06-06 12:29:29 --> Language Class Initialized
+INFO - 2022-06-06 12:29:29 --> Config Class Initialized
+INFO - 2022-06-06 12:29:29 --> Loader Class Initialized
+INFO - 2022-06-06 12:29:29 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:29:29 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:29:29 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:29:29 --> Model Class Initialized
+DEBUG - 2022-06-06 12:29:29 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:29:29 --> Model Class Initialized
+INFO - 2022-06-06 12:29:29 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:29:29 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:29:29 --> Final output sent to browser
+DEBUG - 2022-06-06 12:29:29 --> Total execution time: 0.0363
+INFO - 2022-06-06 12:29:32 --> Config Class Initialized
+INFO - 2022-06-06 12:29:32 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:29:32 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:29:32 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:29:32 --> URI Class Initialized
+INFO - 2022-06-06 12:29:32 --> Router Class Initialized
+INFO - 2022-06-06 12:29:32 --> Output Class Initialized
+INFO - 2022-06-06 12:29:32 --> Security Class Initialized
+DEBUG - 2022-06-06 12:29:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:29:32 --> Input Class Initialized
+INFO - 2022-06-06 12:29:32 --> Language Class Initialized
+INFO - 2022-06-06 12:29:32 --> Language Class Initialized
+INFO - 2022-06-06 12:29:32 --> Config Class Initialized
+INFO - 2022-06-06 12:29:32 --> Loader Class Initialized
+INFO - 2022-06-06 12:29:32 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:29:32 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:29:32 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:29:32 --> Model Class Initialized
+DEBUG - 2022-06-06 12:29:32 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:29:32 --> Model Class Initialized
+INFO - 2022-06-06 12:29:32 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:29:32 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:29:32 --> Final output sent to browser
+DEBUG - 2022-06-06 12:29:32 --> Total execution time: 0.0365
+INFO - 2022-06-06 12:29:39 --> Config Class Initialized
+INFO - 2022-06-06 12:29:39 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:29:39 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:29:39 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:29:39 --> URI Class Initialized
+INFO - 2022-06-06 12:29:39 --> Router Class Initialized
+INFO - 2022-06-06 12:29:39 --> Output Class Initialized
+INFO - 2022-06-06 12:29:39 --> Security Class Initialized
+DEBUG - 2022-06-06 12:29:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:29:39 --> Input Class Initialized
+INFO - 2022-06-06 12:29:39 --> Language Class Initialized
+INFO - 2022-06-06 12:29:39 --> Language Class Initialized
+INFO - 2022-06-06 12:29:39 --> Config Class Initialized
+INFO - 2022-06-06 12:29:39 --> Loader Class Initialized
+INFO - 2022-06-06 12:29:39 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:29:39 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:29:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:29:39 --> Model Class Initialized
+DEBUG - 2022-06-06 12:29:39 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:29:39 --> Model Class Initialized
+INFO - 2022-06-06 12:29:39 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:29:39 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:29:39 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:29:39 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:29:39 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:29:39 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:29:39 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:29:39 --> Final output sent to browser
+DEBUG - 2022-06-06 12:29:39 --> Total execution time: 0.0444
+INFO - 2022-06-06 12:29:51 --> Config Class Initialized
+INFO - 2022-06-06 12:29:51 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:29:51 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:29:51 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:29:51 --> URI Class Initialized
+INFO - 2022-06-06 12:29:51 --> Router Class Initialized
+INFO - 2022-06-06 12:29:51 --> Output Class Initialized
+INFO - 2022-06-06 12:29:51 --> Security Class Initialized
+DEBUG - 2022-06-06 12:29:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:29:51 --> Input Class Initialized
+INFO - 2022-06-06 12:29:51 --> Language Class Initialized
+INFO - 2022-06-06 12:29:51 --> Language Class Initialized
+INFO - 2022-06-06 12:29:51 --> Config Class Initialized
+INFO - 2022-06-06 12:29:51 --> Loader Class Initialized
+INFO - 2022-06-06 12:29:51 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:29:51 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:29:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:29:51 --> Model Class Initialized
+DEBUG - 2022-06-06 12:29:51 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:29:51 --> Model Class Initialized
+INFO - 2022-06-06 12:29:51 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:29:51 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:29:51 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:29:51 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:29:51 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:29:51 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_interest.php
+DEBUG - 2022-06-06 12:29:51 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:29:51 --> Final output sent to browser
+DEBUG - 2022-06-06 12:29:51 --> Total execution time: 0.0365
+INFO - 2022-06-06 12:30:09 --> Config Class Initialized
+INFO - 2022-06-06 12:30:09 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:30:09 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:30:09 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:30:09 --> URI Class Initialized
+INFO - 2022-06-06 12:30:09 --> Router Class Initialized
+INFO - 2022-06-06 12:30:09 --> Output Class Initialized
+INFO - 2022-06-06 12:30:09 --> Security Class Initialized
+DEBUG - 2022-06-06 12:30:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:30:09 --> Input Class Initialized
+INFO - 2022-06-06 12:30:09 --> Language Class Initialized
+INFO - 2022-06-06 12:30:09 --> Language Class Initialized
+INFO - 2022-06-06 12:30:09 --> Config Class Initialized
+INFO - 2022-06-06 12:30:09 --> Loader Class Initialized
+INFO - 2022-06-06 12:30:09 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:30:09 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:30:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:30:09 --> Model Class Initialized
+DEBUG - 2022-06-06 12:30:09 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:30:09 --> Model Class Initialized
+INFO - 2022-06-06 12:30:09 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:30:09 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:30:09 --> Upload Class Initialized
+INFO - 2022-06-06 12:30:09 --> Config Class Initialized
+INFO - 2022-06-06 12:30:09 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:30:09 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:30:09 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:30:09 --> URI Class Initialized
+INFO - 2022-06-06 12:30:09 --> Router Class Initialized
+INFO - 2022-06-06 12:30:09 --> Output Class Initialized
+INFO - 2022-06-06 12:30:09 --> Security Class Initialized
+DEBUG - 2022-06-06 12:30:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:30:09 --> Input Class Initialized
+INFO - 2022-06-06 12:30:09 --> Language Class Initialized
+INFO - 2022-06-06 12:30:09 --> Language Class Initialized
+INFO - 2022-06-06 12:30:09 --> Config Class Initialized
+INFO - 2022-06-06 12:30:09 --> Loader Class Initialized
+INFO - 2022-06-06 12:30:09 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:30:09 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:30:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:30:09 --> Model Class Initialized
+DEBUG - 2022-06-06 12:30:09 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:30:09 --> Model Class Initialized
+INFO - 2022-06-06 12:30:09 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:30:09 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:30:09 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:30:09 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:30:09 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:30:09 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_interest.php
+DEBUG - 2022-06-06 12:30:09 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:30:09 --> Final output sent to browser
+DEBUG - 2022-06-06 12:30:09 --> Total execution time: 0.0303
+INFO - 2022-06-06 12:30:15 --> Config Class Initialized
+INFO - 2022-06-06 12:30:15 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:30:15 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:30:15 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:30:15 --> URI Class Initialized
+INFO - 2022-06-06 12:30:15 --> Router Class Initialized
+INFO - 2022-06-06 12:30:15 --> Output Class Initialized
+INFO - 2022-06-06 12:30:15 --> Security Class Initialized
+DEBUG - 2022-06-06 12:30:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:30:15 --> Input Class Initialized
+INFO - 2022-06-06 12:30:15 --> Language Class Initialized
+INFO - 2022-06-06 12:30:15 --> Language Class Initialized
+INFO - 2022-06-06 12:30:15 --> Config Class Initialized
+INFO - 2022-06-06 12:30:15 --> Loader Class Initialized
+INFO - 2022-06-06 12:30:15 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:30:15 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:30:15 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:30:15 --> Model Class Initialized
+DEBUG - 2022-06-06 12:30:15 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:30:15 --> Model Class Initialized
+INFO - 2022-06-06 12:30:15 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:30:15 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:30:15 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:30:15 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:30:15 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:30:15 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:30:15 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:30:15 --> Final output sent to browser
+DEBUG - 2022-06-06 12:30:15 --> Total execution time: 0.0406
+INFO - 2022-06-06 12:31:27 --> Config Class Initialized
+INFO - 2022-06-06 12:31:27 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:31:27 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:31:27 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:31:27 --> URI Class Initialized
+INFO - 2022-06-06 12:31:27 --> Router Class Initialized
+INFO - 2022-06-06 12:31:27 --> Output Class Initialized
+INFO - 2022-06-06 12:31:27 --> Security Class Initialized
+DEBUG - 2022-06-06 12:31:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:31:27 --> Input Class Initialized
+INFO - 2022-06-06 12:31:27 --> Language Class Initialized
+INFO - 2022-06-06 12:31:27 --> Language Class Initialized
+INFO - 2022-06-06 12:31:27 --> Config Class Initialized
+INFO - 2022-06-06 12:31:27 --> Loader Class Initialized
+INFO - 2022-06-06 12:31:27 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:31:27 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:31:27 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:31:27 --> Model Class Initialized
+DEBUG - 2022-06-06 12:31:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:31:27 --> Model Class Initialized
+INFO - 2022-06-06 12:31:27 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:31:27 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:31:27 --> Upload Class Initialized
+INFO - 2022-06-06 12:31:27 --> Language file loaded: language/english/upload_lang.php
+ERROR - 2022-06-06 12:31:27 --> The upload path does not appear to be valid.
+INFO - 2022-06-06 12:31:27 --> Config Class Initialized
+INFO - 2022-06-06 12:31:27 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:31:27 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:31:27 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:31:27 --> URI Class Initialized
+INFO - 2022-06-06 12:31:27 --> Router Class Initialized
+INFO - 2022-06-06 12:31:27 --> Output Class Initialized
+INFO - 2022-06-06 12:31:27 --> Security Class Initialized
+DEBUG - 2022-06-06 12:31:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:31:27 --> Input Class Initialized
+INFO - 2022-06-06 12:31:27 --> Language Class Initialized
+INFO - 2022-06-06 12:31:27 --> Language Class Initialized
+INFO - 2022-06-06 12:31:27 --> Config Class Initialized
+INFO - 2022-06-06 12:31:27 --> Loader Class Initialized
+INFO - 2022-06-06 12:31:27 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:31:27 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:31:27 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:31:27 --> Model Class Initialized
+DEBUG - 2022-06-06 12:31:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:31:27 --> Model Class Initialized
+INFO - 2022-06-06 12:31:27 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:31:27 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:31:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:31:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:31:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:31:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:31:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:31:27 --> Final output sent to browser
+DEBUG - 2022-06-06 12:31:27 --> Total execution time: 0.0465
+INFO - 2022-06-06 12:32:50 --> Config Class Initialized
+INFO - 2022-06-06 12:32:50 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:32:50 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:32:50 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:32:50 --> URI Class Initialized
+INFO - 2022-06-06 12:32:50 --> Router Class Initialized
+INFO - 2022-06-06 12:32:50 --> Output Class Initialized
+INFO - 2022-06-06 12:32:50 --> Security Class Initialized
+DEBUG - 2022-06-06 12:32:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:32:50 --> Input Class Initialized
+INFO - 2022-06-06 12:32:50 --> Language Class Initialized
+INFO - 2022-06-06 12:32:50 --> Language Class Initialized
+INFO - 2022-06-06 12:32:50 --> Config Class Initialized
+INFO - 2022-06-06 12:32:50 --> Loader Class Initialized
+INFO - 2022-06-06 12:32:50 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:32:50 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:32:50 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:32:50 --> Model Class Initialized
+DEBUG - 2022-06-06 12:32:50 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:32:50 --> Model Class Initialized
+INFO - 2022-06-06 12:32:50 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:32:50 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:32:50 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:32:50 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:32:50 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:32:50 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:32:50 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:32:50 --> Final output sent to browser
+DEBUG - 2022-06-06 12:32:50 --> Total execution time: 0.0387
+INFO - 2022-06-06 12:32:55 --> Config Class Initialized
+INFO - 2022-06-06 12:32:55 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:32:55 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:32:55 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:32:55 --> URI Class Initialized
+INFO - 2022-06-06 12:32:55 --> Router Class Initialized
+INFO - 2022-06-06 12:32:55 --> Output Class Initialized
+INFO - 2022-06-06 12:32:55 --> Security Class Initialized
+DEBUG - 2022-06-06 12:32:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:32:55 --> Input Class Initialized
+INFO - 2022-06-06 12:32:55 --> Language Class Initialized
+INFO - 2022-06-06 12:32:55 --> Language Class Initialized
+INFO - 2022-06-06 12:32:55 --> Config Class Initialized
+INFO - 2022-06-06 12:32:55 --> Loader Class Initialized
+INFO - 2022-06-06 12:32:55 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:32:55 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:32:55 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:32:55 --> Model Class Initialized
+DEBUG - 2022-06-06 12:32:55 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:32:55 --> Model Class Initialized
+INFO - 2022-06-06 12:32:55 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:32:55 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:32:55 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:32:55 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:32:55 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:32:55 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+ERROR - 2022-06-06 12:32:55 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+DEBUG - 2022-06-06 12:32:55 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:32:55 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:32:55 --> Final output sent to browser
+DEBUG - 2022-06-06 12:32:55 --> Total execution time: 0.0382
+INFO - 2022-06-06 12:32:58 --> Config Class Initialized
+INFO - 2022-06-06 12:32:58 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:32:58 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:32:58 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:32:58 --> URI Class Initialized
+INFO - 2022-06-06 12:32:58 --> Router Class Initialized
+INFO - 2022-06-06 12:32:58 --> Output Class Initialized
+INFO - 2022-06-06 12:32:58 --> Security Class Initialized
+DEBUG - 2022-06-06 12:32:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:32:58 --> Input Class Initialized
+INFO - 2022-06-06 12:32:58 --> Language Class Initialized
+INFO - 2022-06-06 12:32:58 --> Language Class Initialized
+INFO - 2022-06-06 12:32:58 --> Config Class Initialized
+INFO - 2022-06-06 12:32:58 --> Loader Class Initialized
+INFO - 2022-06-06 12:32:58 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:32:58 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:32:58 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:32:58 --> Model Class Initialized
+DEBUG - 2022-06-06 12:32:58 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:32:58 --> Model Class Initialized
+INFO - 2022-06-06 12:32:58 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:32:58 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:32:58 --> Final output sent to browser
+DEBUG - 2022-06-06 12:32:58 --> Total execution time: 0.0412
+INFO - 2022-06-06 12:33:29 --> Config Class Initialized
+INFO - 2022-06-06 12:33:29 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:33:29 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:33:29 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:33:29 --> URI Class Initialized
+INFO - 2022-06-06 12:33:29 --> Router Class Initialized
+INFO - 2022-06-06 12:33:29 --> Output Class Initialized
+INFO - 2022-06-06 12:33:29 --> Security Class Initialized
+DEBUG - 2022-06-06 12:33:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:33:29 --> Input Class Initialized
+INFO - 2022-06-06 12:33:29 --> Language Class Initialized
+INFO - 2022-06-06 12:33:29 --> Language Class Initialized
+INFO - 2022-06-06 12:33:29 --> Config Class Initialized
+INFO - 2022-06-06 12:33:29 --> Loader Class Initialized
+INFO - 2022-06-06 12:33:29 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:33:29 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:33:29 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:33:29 --> Model Class Initialized
+DEBUG - 2022-06-06 12:33:29 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:33:29 --> Model Class Initialized
+INFO - 2022-06-06 12:33:29 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:33:29 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:33:29 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:33:29 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:33:29 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:33:29 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+ERROR - 2022-06-06 12:33:29 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 85
+DEBUG - 2022-06-06 12:33:29 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:33:29 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:33:29 --> Final output sent to browser
+DEBUG - 2022-06-06 12:33:29 --> Total execution time: 0.0399
+INFO - 2022-06-06 12:34:05 --> Config Class Initialized
+INFO - 2022-06-06 12:34:05 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:34:05 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:34:05 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:34:05 --> URI Class Initialized
+INFO - 2022-06-06 12:34:05 --> Router Class Initialized
+INFO - 2022-06-06 12:34:05 --> Output Class Initialized
+INFO - 2022-06-06 12:34:05 --> Security Class Initialized
+DEBUG - 2022-06-06 12:34:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:34:05 --> Input Class Initialized
+INFO - 2022-06-06 12:34:05 --> Language Class Initialized
+INFO - 2022-06-06 12:34:05 --> Language Class Initialized
+INFO - 2022-06-06 12:34:05 --> Config Class Initialized
+INFO - 2022-06-06 12:34:05 --> Loader Class Initialized
+INFO - 2022-06-06 12:34:05 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:34:05 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:34:05 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:34:05 --> Model Class Initialized
+DEBUG - 2022-06-06 12:34:05 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:34:05 --> Model Class Initialized
+INFO - 2022-06-06 12:34:05 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:34:05 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:34:05 --> Final output sent to browser
+DEBUG - 2022-06-06 12:34:05 --> Total execution time: 0.0349
+INFO - 2022-06-06 12:37:16 --> Config Class Initialized
+INFO - 2022-06-06 12:37:16 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:37:16 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:37:16 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:37:16 --> URI Class Initialized
+INFO - 2022-06-06 12:37:16 --> Router Class Initialized
+INFO - 2022-06-06 12:37:16 --> Output Class Initialized
+INFO - 2022-06-06 12:37:16 --> Security Class Initialized
+DEBUG - 2022-06-06 12:37:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:37:16 --> Input Class Initialized
+INFO - 2022-06-06 12:37:16 --> Language Class Initialized
+INFO - 2022-06-06 12:37:16 --> Language Class Initialized
+INFO - 2022-06-06 12:37:16 --> Config Class Initialized
+INFO - 2022-06-06 12:37:16 --> Loader Class Initialized
+INFO - 2022-06-06 12:37:16 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:37:16 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:37:16 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:37:16 --> Model Class Initialized
+DEBUG - 2022-06-06 12:37:16 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:37:16 --> Model Class Initialized
+INFO - 2022-06-06 12:37:16 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:37:16 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:37:16 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:37:16 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:37:16 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:37:16 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+ERROR - 2022-06-06 12:37:16 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+DEBUG - 2022-06-06 12:37:16 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:37:16 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:37:16 --> Final output sent to browser
+DEBUG - 2022-06-06 12:37:16 --> Total execution time: 0.0433
+INFO - 2022-06-06 12:37:18 --> Config Class Initialized
+INFO - 2022-06-06 12:37:18 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:37:18 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:37:18 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:37:18 --> URI Class Initialized
+INFO - 2022-06-06 12:37:18 --> Router Class Initialized
+INFO - 2022-06-06 12:37:18 --> Output Class Initialized
+INFO - 2022-06-06 12:37:18 --> Security Class Initialized
+DEBUG - 2022-06-06 12:37:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:37:18 --> Input Class Initialized
+INFO - 2022-06-06 12:37:18 --> Language Class Initialized
+INFO - 2022-06-06 12:37:18 --> Language Class Initialized
+INFO - 2022-06-06 12:37:18 --> Config Class Initialized
+INFO - 2022-06-06 12:37:18 --> Loader Class Initialized
+INFO - 2022-06-06 12:37:18 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:37:18 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:37:18 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:37:18 --> Model Class Initialized
+DEBUG - 2022-06-06 12:37:18 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:37:18 --> Model Class Initialized
+INFO - 2022-06-06 12:37:18 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:37:18 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:37:18 --> Final output sent to browser
+DEBUG - 2022-06-06 12:37:18 --> Total execution time: 0.0378
+INFO - 2022-06-06 12:37:36 --> Config Class Initialized
+INFO - 2022-06-06 12:37:36 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:37:36 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:37:36 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:37:36 --> URI Class Initialized
+INFO - 2022-06-06 12:37:36 --> Router Class Initialized
+INFO - 2022-06-06 12:37:36 --> Output Class Initialized
+INFO - 2022-06-06 12:37:36 --> Security Class Initialized
+DEBUG - 2022-06-06 12:37:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:37:36 --> Input Class Initialized
+INFO - 2022-06-06 12:37:36 --> Language Class Initialized
+INFO - 2022-06-06 12:37:36 --> Language Class Initialized
+INFO - 2022-06-06 12:37:36 --> Config Class Initialized
+INFO - 2022-06-06 12:37:36 --> Loader Class Initialized
+INFO - 2022-06-06 12:37:36 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:37:36 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:37:36 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:37:36 --> Model Class Initialized
+DEBUG - 2022-06-06 12:37:36 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:37:36 --> Model Class Initialized
+INFO - 2022-06-06 12:37:36 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:37:36 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:37:36 --> Config Class Initialized
+INFO - 2022-06-06 12:37:36 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:37:36 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:37:36 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:37:36 --> URI Class Initialized
+INFO - 2022-06-06 12:37:36 --> Router Class Initialized
+INFO - 2022-06-06 12:37:36 --> Output Class Initialized
+INFO - 2022-06-06 12:37:36 --> Security Class Initialized
+DEBUG - 2022-06-06 12:37:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:37:36 --> Input Class Initialized
+INFO - 2022-06-06 12:37:36 --> Language Class Initialized
+INFO - 2022-06-06 12:37:36 --> Language Class Initialized
+INFO - 2022-06-06 12:37:36 --> Config Class Initialized
+INFO - 2022-06-06 12:37:36 --> Loader Class Initialized
+INFO - 2022-06-06 12:37:36 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:37:36 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:37:36 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:37:36 --> Model Class Initialized
+DEBUG - 2022-06-06 12:37:36 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:37:36 --> Model Class Initialized
+INFO - 2022-06-06 12:37:36 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:37:36 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:37:36 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:37:36 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:37:36 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:37:36 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+ERROR - 2022-06-06 12:37:36 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+DEBUG - 2022-06-06 12:37:36 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:37:36 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:37:36 --> Final output sent to browser
+DEBUG - 2022-06-06 12:37:36 --> Total execution time: 0.0398
+INFO - 2022-06-06 12:37:44 --> Config Class Initialized
+INFO - 2022-06-06 12:37:44 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:37:44 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:37:44 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:37:44 --> URI Class Initialized
+INFO - 2022-06-06 12:37:44 --> Router Class Initialized
+INFO - 2022-06-06 12:37:44 --> Output Class Initialized
+INFO - 2022-06-06 12:37:44 --> Security Class Initialized
+DEBUG - 2022-06-06 12:37:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:37:44 --> Input Class Initialized
+INFO - 2022-06-06 12:37:44 --> Language Class Initialized
+INFO - 2022-06-06 12:37:44 --> Language Class Initialized
+INFO - 2022-06-06 12:37:44 --> Config Class Initialized
+INFO - 2022-06-06 12:37:44 --> Loader Class Initialized
+INFO - 2022-06-06 12:37:44 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:37:44 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:37:44 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:37:44 --> Model Class Initialized
+DEBUG - 2022-06-06 12:37:44 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:37:44 --> Model Class Initialized
+INFO - 2022-06-06 12:37:44 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:37:44 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:37:44 --> Final output sent to browser
+DEBUG - 2022-06-06 12:37:44 --> Total execution time: 0.0366
+INFO - 2022-06-06 12:38:02 --> Config Class Initialized
+INFO - 2022-06-06 12:38:02 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:38:02 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:38:02 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:38:02 --> URI Class Initialized
+INFO - 2022-06-06 12:38:02 --> Router Class Initialized
+INFO - 2022-06-06 12:38:02 --> Output Class Initialized
+INFO - 2022-06-06 12:38:02 --> Security Class Initialized
+DEBUG - 2022-06-06 12:38:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:38:02 --> Input Class Initialized
+INFO - 2022-06-06 12:38:02 --> Language Class Initialized
+INFO - 2022-06-06 12:38:02 --> Language Class Initialized
+INFO - 2022-06-06 12:38:02 --> Config Class Initialized
+INFO - 2022-06-06 12:38:02 --> Loader Class Initialized
+INFO - 2022-06-06 12:38:02 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:38:02 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:38:02 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:38:02 --> Model Class Initialized
+DEBUG - 2022-06-06 12:38:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:38:02 --> Model Class Initialized
+INFO - 2022-06-06 12:38:02 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:38:02 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:38:03 --> Config Class Initialized
+INFO - 2022-06-06 12:38:03 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:38:03 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:38:03 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:38:03 --> URI Class Initialized
+INFO - 2022-06-06 12:38:03 --> Router Class Initialized
+INFO - 2022-06-06 12:38:03 --> Output Class Initialized
+INFO - 2022-06-06 12:38:03 --> Security Class Initialized
+DEBUG - 2022-06-06 12:38:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:38:03 --> Input Class Initialized
+INFO - 2022-06-06 12:38:03 --> Language Class Initialized
+INFO - 2022-06-06 12:38:03 --> Language Class Initialized
+INFO - 2022-06-06 12:38:03 --> Config Class Initialized
+INFO - 2022-06-06 12:38:03 --> Loader Class Initialized
+INFO - 2022-06-06 12:38:03 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:38:03 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:38:03 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:38:03 --> Model Class Initialized
+DEBUG - 2022-06-06 12:38:03 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:38:03 --> Model Class Initialized
+INFO - 2022-06-06 12:38:03 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:38:03 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:38:03 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:38:03 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:38:03 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:38:03 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+ERROR - 2022-06-06 12:38:03 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+DEBUG - 2022-06-06 12:38:03 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:38:03 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:38:03 --> Final output sent to browser
+DEBUG - 2022-06-06 12:38:03 --> Total execution time: 0.0369
+INFO - 2022-06-06 12:38:07 --> Config Class Initialized
+INFO - 2022-06-06 12:38:07 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:38:07 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:38:07 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:38:07 --> URI Class Initialized
+INFO - 2022-06-06 12:38:07 --> Router Class Initialized
+INFO - 2022-06-06 12:38:07 --> Output Class Initialized
+INFO - 2022-06-06 12:38:07 --> Security Class Initialized
+DEBUG - 2022-06-06 12:38:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:38:07 --> Input Class Initialized
+INFO - 2022-06-06 12:38:07 --> Language Class Initialized
+INFO - 2022-06-06 12:38:07 --> Language Class Initialized
+INFO - 2022-06-06 12:38:07 --> Config Class Initialized
+INFO - 2022-06-06 12:38:07 --> Loader Class Initialized
+INFO - 2022-06-06 12:38:07 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:38:07 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:38:07 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:38:07 --> Model Class Initialized
+DEBUG - 2022-06-06 12:38:07 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:38:07 --> Model Class Initialized
+INFO - 2022-06-06 12:38:07 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:38:07 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:38:07 --> Final output sent to browser
+DEBUG - 2022-06-06 12:38:07 --> Total execution time: 0.0359
+INFO - 2022-06-06 12:38:09 --> Config Class Initialized
+INFO - 2022-06-06 12:38:09 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:38:09 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:38:09 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:38:09 --> URI Class Initialized
+INFO - 2022-06-06 12:38:09 --> Router Class Initialized
+INFO - 2022-06-06 12:38:09 --> Output Class Initialized
+INFO - 2022-06-06 12:38:09 --> Security Class Initialized
+DEBUG - 2022-06-06 12:38:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:38:09 --> Input Class Initialized
+INFO - 2022-06-06 12:38:09 --> Language Class Initialized
+INFO - 2022-06-06 12:38:09 --> Language Class Initialized
+INFO - 2022-06-06 12:38:09 --> Config Class Initialized
+INFO - 2022-06-06 12:38:09 --> Loader Class Initialized
+INFO - 2022-06-06 12:38:09 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:38:09 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:38:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:38:09 --> Model Class Initialized
+DEBUG - 2022-06-06 12:38:09 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:38:09 --> Model Class Initialized
+INFO - 2022-06-06 12:38:09 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:38:09 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:38:09 --> Final output sent to browser
+DEBUG - 2022-06-06 12:38:09 --> Total execution time: 0.0379
+INFO - 2022-06-06 12:38:27 --> Config Class Initialized
+INFO - 2022-06-06 12:38:27 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:38:27 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:38:27 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:38:27 --> URI Class Initialized
+INFO - 2022-06-06 12:38:27 --> Router Class Initialized
+INFO - 2022-06-06 12:38:27 --> Output Class Initialized
+INFO - 2022-06-06 12:38:27 --> Security Class Initialized
+DEBUG - 2022-06-06 12:38:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:38:27 --> Input Class Initialized
+INFO - 2022-06-06 12:38:27 --> Language Class Initialized
+INFO - 2022-06-06 12:38:27 --> Language Class Initialized
+INFO - 2022-06-06 12:38:27 --> Config Class Initialized
+INFO - 2022-06-06 12:38:27 --> Loader Class Initialized
+INFO - 2022-06-06 12:38:27 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:38:27 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:38:27 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:38:27 --> Model Class Initialized
+DEBUG - 2022-06-06 12:38:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:38:27 --> Model Class Initialized
+INFO - 2022-06-06 12:38:27 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:38:27 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:38:27 --> Config Class Initialized
+INFO - 2022-06-06 12:38:27 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:38:27 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:38:27 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:38:27 --> URI Class Initialized
+INFO - 2022-06-06 12:38:27 --> Router Class Initialized
+INFO - 2022-06-06 12:38:27 --> Output Class Initialized
+INFO - 2022-06-06 12:38:27 --> Security Class Initialized
+DEBUG - 2022-06-06 12:38:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:38:27 --> Input Class Initialized
+INFO - 2022-06-06 12:38:27 --> Language Class Initialized
+INFO - 2022-06-06 12:38:27 --> Language Class Initialized
+INFO - 2022-06-06 12:38:27 --> Config Class Initialized
+INFO - 2022-06-06 12:38:27 --> Loader Class Initialized
+INFO - 2022-06-06 12:38:27 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:38:27 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:38:27 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:38:27 --> Model Class Initialized
+DEBUG - 2022-06-06 12:38:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:38:27 --> Model Class Initialized
+INFO - 2022-06-06 12:38:27 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:38:27 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:38:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:38:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:38:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:38:27 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+ERROR - 2022-06-06 12:38:27 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+DEBUG - 2022-06-06 12:38:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:38:27 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:38:27 --> Final output sent to browser
+DEBUG - 2022-06-06 12:38:27 --> Total execution time: 0.0387
+INFO - 2022-06-06 12:38:29 --> Config Class Initialized
+INFO - 2022-06-06 12:38:29 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:38:29 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:38:29 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:38:29 --> URI Class Initialized
+INFO - 2022-06-06 12:38:29 --> Router Class Initialized
+INFO - 2022-06-06 12:38:29 --> Output Class Initialized
+INFO - 2022-06-06 12:38:29 --> Security Class Initialized
+DEBUG - 2022-06-06 12:38:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:38:29 --> Input Class Initialized
+INFO - 2022-06-06 12:38:29 --> Language Class Initialized
+INFO - 2022-06-06 12:38:29 --> Language Class Initialized
+INFO - 2022-06-06 12:38:29 --> Config Class Initialized
+INFO - 2022-06-06 12:38:29 --> Loader Class Initialized
+INFO - 2022-06-06 12:38:29 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:38:29 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:38:29 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:38:29 --> Model Class Initialized
+DEBUG - 2022-06-06 12:38:29 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:38:29 --> Model Class Initialized
+INFO - 2022-06-06 12:38:29 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:38:29 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:38:29 --> Final output sent to browser
+DEBUG - 2022-06-06 12:38:29 --> Total execution time: 0.0419
+INFO - 2022-06-06 12:38:43 --> Config Class Initialized
+INFO - 2022-06-06 12:38:43 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:38:43 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:38:43 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:38:43 --> URI Class Initialized
+INFO - 2022-06-06 12:38:43 --> Router Class Initialized
+INFO - 2022-06-06 12:38:43 --> Output Class Initialized
+INFO - 2022-06-06 12:38:43 --> Security Class Initialized
+DEBUG - 2022-06-06 12:38:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:38:43 --> Input Class Initialized
+INFO - 2022-06-06 12:38:43 --> Language Class Initialized
+INFO - 2022-06-06 12:38:43 --> Language Class Initialized
+INFO - 2022-06-06 12:38:43 --> Config Class Initialized
+INFO - 2022-06-06 12:38:43 --> Loader Class Initialized
+INFO - 2022-06-06 12:38:43 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:38:43 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:38:43 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:38:43 --> Model Class Initialized
+DEBUG - 2022-06-06 12:38:43 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:38:43 --> Model Class Initialized
+INFO - 2022-06-06 12:38:43 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:38:43 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:38:43 --> Config Class Initialized
+INFO - 2022-06-06 12:38:43 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:38:43 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:38:43 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:38:43 --> URI Class Initialized
+INFO - 2022-06-06 12:38:43 --> Router Class Initialized
+INFO - 2022-06-06 12:38:43 --> Output Class Initialized
+INFO - 2022-06-06 12:38:43 --> Security Class Initialized
+DEBUG - 2022-06-06 12:38:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:38:43 --> Input Class Initialized
+INFO - 2022-06-06 12:38:43 --> Language Class Initialized
+INFO - 2022-06-06 12:38:43 --> Language Class Initialized
+INFO - 2022-06-06 12:38:43 --> Config Class Initialized
+INFO - 2022-06-06 12:38:43 --> Loader Class Initialized
+INFO - 2022-06-06 12:38:43 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:38:43 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:38:43 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:38:43 --> Model Class Initialized
+DEBUG - 2022-06-06 12:38:43 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:38:43 --> Model Class Initialized
+INFO - 2022-06-06 12:38:43 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:38:43 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:38:43 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:38:43 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:38:43 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:38:43 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+ERROR - 2022-06-06 12:38:43 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+DEBUG - 2022-06-06 12:38:43 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:38:43 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:38:43 --> Final output sent to browser
+DEBUG - 2022-06-06 12:38:43 --> Total execution time: 0.0411
+INFO - 2022-06-06 12:38:53 --> Config Class Initialized
+INFO - 2022-06-06 12:38:53 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:38:53 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:38:53 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:38:53 --> URI Class Initialized
+INFO - 2022-06-06 12:38:53 --> Router Class Initialized
+INFO - 2022-06-06 12:38:53 --> Output Class Initialized
+INFO - 2022-06-06 12:38:53 --> Security Class Initialized
+DEBUG - 2022-06-06 12:38:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:38:53 --> Input Class Initialized
+INFO - 2022-06-06 12:38:53 --> Language Class Initialized
+INFO - 2022-06-06 12:38:53 --> Language Class Initialized
+INFO - 2022-06-06 12:38:53 --> Config Class Initialized
+INFO - 2022-06-06 12:38:53 --> Loader Class Initialized
+INFO - 2022-06-06 12:38:53 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:38:53 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:38:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:38:53 --> Model Class Initialized
+DEBUG - 2022-06-06 12:38:53 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:38:53 --> Model Class Initialized
+INFO - 2022-06-06 12:38:53 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:38:53 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:38:53 --> Final output sent to browser
+DEBUG - 2022-06-06 12:38:53 --> Total execution time: 0.0433
+INFO - 2022-06-06 12:39:23 --> Config Class Initialized
+INFO - 2022-06-06 12:39:23 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:39:23 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:39:23 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:39:23 --> URI Class Initialized
+INFO - 2022-06-06 12:39:23 --> Router Class Initialized
+INFO - 2022-06-06 12:39:23 --> Output Class Initialized
+INFO - 2022-06-06 12:39:23 --> Security Class Initialized
+DEBUG - 2022-06-06 12:39:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:39:23 --> Input Class Initialized
+INFO - 2022-06-06 12:39:23 --> Language Class Initialized
+INFO - 2022-06-06 12:39:23 --> Language Class Initialized
+INFO - 2022-06-06 12:39:23 --> Config Class Initialized
+INFO - 2022-06-06 12:39:23 --> Loader Class Initialized
+INFO - 2022-06-06 12:39:23 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:39:23 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:39:23 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:39:23 --> Model Class Initialized
+DEBUG - 2022-06-06 12:39:23 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:39:23 --> Model Class Initialized
+INFO - 2022-06-06 12:39:23 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:39:23 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:39:24 --> Config Class Initialized
+INFO - 2022-06-06 12:39:24 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:39:24 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:39:24 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:39:24 --> URI Class Initialized
+INFO - 2022-06-06 12:39:24 --> Router Class Initialized
+INFO - 2022-06-06 12:39:24 --> Output Class Initialized
+INFO - 2022-06-06 12:39:24 --> Security Class Initialized
+DEBUG - 2022-06-06 12:39:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:39:24 --> Input Class Initialized
+INFO - 2022-06-06 12:39:24 --> Language Class Initialized
+INFO - 2022-06-06 12:39:24 --> Language Class Initialized
+INFO - 2022-06-06 12:39:24 --> Config Class Initialized
+INFO - 2022-06-06 12:39:24 --> Loader Class Initialized
+INFO - 2022-06-06 12:39:24 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:39:24 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:39:24 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:39:24 --> Model Class Initialized
+DEBUG - 2022-06-06 12:39:24 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:39:24 --> Model Class Initialized
+INFO - 2022-06-06 12:39:24 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:39:24 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:39:24 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:39:24 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:39:24 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:39:24 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+ERROR - 2022-06-06 12:39:24 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+DEBUG - 2022-06-06 12:39:24 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:39:24 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:39:24 --> Final output sent to browser
+DEBUG - 2022-06-06 12:39:24 --> Total execution time: 0.0378
+INFO - 2022-06-06 12:39:34 --> Config Class Initialized
+INFO - 2022-06-06 12:39:34 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:39:34 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:39:34 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:39:34 --> URI Class Initialized
+INFO - 2022-06-06 12:39:34 --> Router Class Initialized
+INFO - 2022-06-06 12:39:34 --> Output Class Initialized
+INFO - 2022-06-06 12:39:34 --> Security Class Initialized
+DEBUG - 2022-06-06 12:39:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:39:34 --> Input Class Initialized
+INFO - 2022-06-06 12:39:34 --> Language Class Initialized
+INFO - 2022-06-06 12:39:34 --> Language Class Initialized
+INFO - 2022-06-06 12:39:34 --> Config Class Initialized
+INFO - 2022-06-06 12:39:34 --> Loader Class Initialized
+INFO - 2022-06-06 12:39:34 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:39:34 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:39:34 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:39:34 --> Model Class Initialized
+DEBUG - 2022-06-06 12:39:34 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:39:34 --> Model Class Initialized
+INFO - 2022-06-06 12:39:34 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:39:34 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:39:34 --> Final output sent to browser
+DEBUG - 2022-06-06 12:39:34 --> Total execution time: 0.0374
+INFO - 2022-06-06 12:39:48 --> Config Class Initialized
+INFO - 2022-06-06 12:39:48 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:39:48 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:39:48 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:39:48 --> URI Class Initialized
+INFO - 2022-06-06 12:39:48 --> Router Class Initialized
+INFO - 2022-06-06 12:39:48 --> Output Class Initialized
+INFO - 2022-06-06 12:39:48 --> Security Class Initialized
+DEBUG - 2022-06-06 12:39:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:39:49 --> Input Class Initialized
+INFO - 2022-06-06 12:39:49 --> Language Class Initialized
+INFO - 2022-06-06 12:39:49 --> Language Class Initialized
+INFO - 2022-06-06 12:39:49 --> Config Class Initialized
+INFO - 2022-06-06 12:39:49 --> Loader Class Initialized
+INFO - 2022-06-06 12:39:49 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:39:49 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:39:49 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:39:49 --> Model Class Initialized
+DEBUG - 2022-06-06 12:39:49 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:39:49 --> Model Class Initialized
+INFO - 2022-06-06 12:39:49 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:39:49 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:39:49 --> Config Class Initialized
+INFO - 2022-06-06 12:39:49 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:39:49 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:39:49 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:39:49 --> URI Class Initialized
+INFO - 2022-06-06 12:39:49 --> Router Class Initialized
+INFO - 2022-06-06 12:39:49 --> Output Class Initialized
+INFO - 2022-06-06 12:39:49 --> Security Class Initialized
+DEBUG - 2022-06-06 12:39:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:39:49 --> Input Class Initialized
+INFO - 2022-06-06 12:39:49 --> Language Class Initialized
+INFO - 2022-06-06 12:39:49 --> Language Class Initialized
+INFO - 2022-06-06 12:39:49 --> Config Class Initialized
+INFO - 2022-06-06 12:39:49 --> Loader Class Initialized
+INFO - 2022-06-06 12:39:49 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:39:49 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:39:49 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:39:49 --> Model Class Initialized
+DEBUG - 2022-06-06 12:39:49 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:39:49 --> Model Class Initialized
+INFO - 2022-06-06 12:39:49 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:39:49 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:39:49 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:39:49 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:39:49 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:39:49 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+ERROR - 2022-06-06 12:39:49 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_subcategory.php 81
+DEBUG - 2022-06-06 12:39:49 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:39:49 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:39:49 --> Final output sent to browser
+DEBUG - 2022-06-06 12:39:49 --> Total execution time: 0.0466
+INFO - 2022-06-06 12:43:36 --> Config Class Initialized
+INFO - 2022-06-06 12:43:36 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:43:36 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:43:36 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:43:36 --> URI Class Initialized
+INFO - 2022-06-06 12:43:36 --> Router Class Initialized
+INFO - 2022-06-06 12:43:36 --> Output Class Initialized
+INFO - 2022-06-06 12:43:36 --> Security Class Initialized
+DEBUG - 2022-06-06 12:43:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:43:36 --> Input Class Initialized
+INFO - 2022-06-06 12:43:36 --> Language Class Initialized
+INFO - 2022-06-06 12:43:36 --> Language Class Initialized
+INFO - 2022-06-06 12:43:36 --> Config Class Initialized
+INFO - 2022-06-06 12:43:36 --> Loader Class Initialized
+INFO - 2022-06-06 12:43:36 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:43:36 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:43:36 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:43:36 --> Model Class Initialized
+DEBUG - 2022-06-06 12:43:36 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:43:36 --> Model Class Initialized
+INFO - 2022-06-06 12:43:36 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:43:36 --> Admin MX_Controller Initialized
+ERROR - 2022-06-06 12:43:36 --> Query error: Unknown column 'sub.id' in 'field list' - Invalid query: SELECT `sub`.`id`, `i`.`title` as `i_title`, `cat`.`title` as `cat_title`, `sub`.`title` as `sub_title`, `sub`.`description`
+FROM `subcategory` as `subcat`
+LEFT JOIN `category` as `cat` ON `cat`.`id` = `subcat`.`category_id`
+LEFT JOIN `interest` as `i` ON `i`.`id` = `subcat`.`interest_id`
+ORDER BY `subcat`.`id`
+INFO - 2022-06-06 12:43:36 --> Language file loaded: language/english/db_lang.php
+INFO - 2022-06-06 12:44:18 --> Config Class Initialized
+INFO - 2022-06-06 12:44:18 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:44:18 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:44:18 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:44:18 --> URI Class Initialized
+INFO - 2022-06-06 12:44:18 --> Router Class Initialized
+INFO - 2022-06-06 12:44:18 --> Output Class Initialized
+INFO - 2022-06-06 12:44:18 --> Security Class Initialized
+DEBUG - 2022-06-06 12:44:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:44:18 --> Input Class Initialized
+INFO - 2022-06-06 12:44:18 --> Language Class Initialized
+INFO - 2022-06-06 12:44:18 --> Language Class Initialized
+INFO - 2022-06-06 12:44:18 --> Config Class Initialized
+INFO - 2022-06-06 12:44:18 --> Loader Class Initialized
+INFO - 2022-06-06 12:44:18 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:44:18 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:44:18 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:44:18 --> Model Class Initialized
+DEBUG - 2022-06-06 12:44:18 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:44:18 --> Model Class Initialized
+INFO - 2022-06-06 12:44:18 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:44:18 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:44:18 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:44:18 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:44:18 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:44:18 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_subcategory.php
+DEBUG - 2022-06-06 12:44:18 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:44:18 --> Final output sent to browser
+DEBUG - 2022-06-06 12:44:18 --> Total execution time: 0.0427
+INFO - 2022-06-06 12:44:57 --> Config Class Initialized
+INFO - 2022-06-06 12:44:57 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:44:57 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:44:57 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:44:57 --> URI Class Initialized
+INFO - 2022-06-06 12:44:57 --> Router Class Initialized
+INFO - 2022-06-06 12:44:57 --> Output Class Initialized
+INFO - 2022-06-06 12:44:57 --> Security Class Initialized
+DEBUG - 2022-06-06 12:44:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:44:57 --> Input Class Initialized
+INFO - 2022-06-06 12:44:57 --> Language Class Initialized
+INFO - 2022-06-06 12:44:57 --> Language Class Initialized
+INFO - 2022-06-06 12:44:57 --> Config Class Initialized
+INFO - 2022-06-06 12:44:57 --> Loader Class Initialized
+INFO - 2022-06-06 12:44:57 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:44:57 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:44:57 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:44:57 --> Model Class Initialized
+DEBUG - 2022-06-06 12:44:57 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:44:57 --> Model Class Initialized
+INFO - 2022-06-06 12:44:57 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:44:57 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:44:57 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:44:57 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:44:57 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:44:57 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:44:57 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:44:57 --> Final output sent to browser
+DEBUG - 2022-06-06 12:44:57 --> Total execution time: 0.0389
+INFO - 2022-06-06 12:46:05 --> Config Class Initialized
+INFO - 2022-06-06 12:46:05 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:46:05 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:46:05 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:46:05 --> URI Class Initialized
+INFO - 2022-06-06 12:46:05 --> Router Class Initialized
+INFO - 2022-06-06 12:46:05 --> Output Class Initialized
+INFO - 2022-06-06 12:46:05 --> Security Class Initialized
+DEBUG - 2022-06-06 12:46:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:46:05 --> Input Class Initialized
+INFO - 2022-06-06 12:46:05 --> Language Class Initialized
+INFO - 2022-06-06 12:46:05 --> Language Class Initialized
+INFO - 2022-06-06 12:46:05 --> Config Class Initialized
+INFO - 2022-06-06 12:46:05 --> Loader Class Initialized
+INFO - 2022-06-06 12:46:05 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:46:05 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:46:05 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:46:05 --> Model Class Initialized
+DEBUG - 2022-06-06 12:46:05 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:46:05 --> Model Class Initialized
+INFO - 2022-06-06 12:46:05 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:46:05 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:46:05 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:46:05 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:46:05 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:46:05 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:46:05 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:46:05 --> Final output sent to browser
+DEBUG - 2022-06-06 12:46:05 --> Total execution time: 0.0452
+INFO - 2022-06-06 12:46:08 --> Config Class Initialized
+INFO - 2022-06-06 12:46:08 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:46:08 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:46:08 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:46:08 --> URI Class Initialized
+INFO - 2022-06-06 12:46:08 --> Router Class Initialized
+INFO - 2022-06-06 12:46:08 --> Output Class Initialized
+INFO - 2022-06-06 12:46:08 --> Security Class Initialized
+DEBUG - 2022-06-06 12:46:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:46:08 --> Input Class Initialized
+INFO - 2022-06-06 12:46:08 --> Language Class Initialized
+INFO - 2022-06-06 12:46:08 --> Language Class Initialized
+INFO - 2022-06-06 12:46:08 --> Config Class Initialized
+INFO - 2022-06-06 12:46:08 --> Loader Class Initialized
+INFO - 2022-06-06 12:46:08 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:46:08 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:46:08 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:46:08 --> Model Class Initialized
+DEBUG - 2022-06-06 12:46:08 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:46:08 --> Model Class Initialized
+INFO - 2022-06-06 12:46:08 --> Controller Class Initialized
+ERROR - 2022-06-06 12:46:08 --> 404 Page Not Found: ../modules/admin/controllers/Admin/add_social
+INFO - 2022-06-06 12:46:33 --> Config Class Initialized
+INFO - 2022-06-06 12:46:33 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:46:33 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:46:33 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:46:33 --> URI Class Initialized
+INFO - 2022-06-06 12:46:33 --> Router Class Initialized
+INFO - 2022-06-06 12:46:33 --> Output Class Initialized
+INFO - 2022-06-06 12:46:33 --> Security Class Initialized
+DEBUG - 2022-06-06 12:46:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:46:33 --> Input Class Initialized
+INFO - 2022-06-06 12:46:33 --> Language Class Initialized
+INFO - 2022-06-06 12:46:33 --> Language Class Initialized
+INFO - 2022-06-06 12:46:33 --> Config Class Initialized
+INFO - 2022-06-06 12:46:33 --> Loader Class Initialized
+INFO - 2022-06-06 12:46:33 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:46:33 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:46:33 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:46:33 --> Model Class Initialized
+DEBUG - 2022-06-06 12:46:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:46:33 --> Model Class Initialized
+INFO - 2022-06-06 12:46:33 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:46:33 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:46:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:46:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:46:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:46:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_category.php
+DEBUG - 2022-06-06 12:46:33 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:46:33 --> Final output sent to browser
+DEBUG - 2022-06-06 12:46:33 --> Total execution time: 0.0475
+INFO - 2022-06-06 12:46:34 --> Config Class Initialized
+INFO - 2022-06-06 12:46:34 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:46:34 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:46:34 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:46:34 --> URI Class Initialized
+INFO - 2022-06-06 12:46:34 --> Router Class Initialized
+INFO - 2022-06-06 12:46:34 --> Output Class Initialized
+INFO - 2022-06-06 12:46:34 --> Security Class Initialized
+DEBUG - 2022-06-06 12:46:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:46:34 --> Input Class Initialized
+INFO - 2022-06-06 12:46:34 --> Language Class Initialized
+INFO - 2022-06-06 12:46:34 --> Language Class Initialized
+INFO - 2022-06-06 12:46:34 --> Config Class Initialized
+INFO - 2022-06-06 12:46:34 --> Loader Class Initialized
+INFO - 2022-06-06 12:46:34 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:46:34 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:46:34 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:46:34 --> Model Class Initialized
+DEBUG - 2022-06-06 12:46:34 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:46:34 --> Model Class Initialized
+INFO - 2022-06-06 12:46:34 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:46:34 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:46:34 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:46:34 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:46:34 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:46:34 --> Severity: Notice --> Undefined variable: i N:\Xampp\htdocs\dhired\application\modules\admin\views\add_socialmedia.php 32
+ERROR - 2022-06-06 12:46:34 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_socialmedia.php 32
+ERROR - 2022-06-06 12:46:34 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_socialmedia.php 83
+ERROR - 2022-06-06 12:46:34 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_socialmedia.php 83
+DEBUG - 2022-06-06 12:46:34 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_socialmedia.php
+DEBUG - 2022-06-06 12:46:34 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:46:34 --> Final output sent to browser
+DEBUG - 2022-06-06 12:46:34 --> Total execution time: 0.0396
+INFO - 2022-06-06 12:50:12 --> Config Class Initialized
+INFO - 2022-06-06 12:50:12 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:50:12 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:50:12 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:50:12 --> URI Class Initialized
+INFO - 2022-06-06 12:50:12 --> Router Class Initialized
+INFO - 2022-06-06 12:50:12 --> Output Class Initialized
+INFO - 2022-06-06 12:50:12 --> Security Class Initialized
+DEBUG - 2022-06-06 12:50:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:50:12 --> Input Class Initialized
+INFO - 2022-06-06 12:50:12 --> Language Class Initialized
+INFO - 2022-06-06 12:50:12 --> Language Class Initialized
+INFO - 2022-06-06 12:50:12 --> Config Class Initialized
+INFO - 2022-06-06 12:50:12 --> Loader Class Initialized
+INFO - 2022-06-06 12:50:12 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:50:12 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:50:12 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:50:12 --> Model Class Initialized
+DEBUG - 2022-06-06 12:50:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:50:12 --> Model Class Initialized
+INFO - 2022-06-06 12:50:12 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:50:12 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:50:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:50:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:50:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:50:12 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_socialmedia.php 70
+ERROR - 2022-06-06 12:50:12 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_socialmedia.php 70
+DEBUG - 2022-06-06 12:50:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_socialmedia.php
+DEBUG - 2022-06-06 12:50:12 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:50:12 --> Final output sent to browser
+DEBUG - 2022-06-06 12:50:12 --> Total execution time: 0.0446
+INFO - 2022-06-06 12:51:28 --> Config Class Initialized
+INFO - 2022-06-06 12:51:28 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:51:28 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:51:28 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:51:28 --> URI Class Initialized
+INFO - 2022-06-06 12:51:28 --> Router Class Initialized
+INFO - 2022-06-06 12:51:28 --> Output Class Initialized
+INFO - 2022-06-06 12:51:28 --> Security Class Initialized
+DEBUG - 2022-06-06 12:51:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:51:28 --> Input Class Initialized
+INFO - 2022-06-06 12:51:28 --> Language Class Initialized
+INFO - 2022-06-06 12:51:28 --> Language Class Initialized
+INFO - 2022-06-06 12:51:28 --> Config Class Initialized
+INFO - 2022-06-06 12:51:28 --> Loader Class Initialized
+INFO - 2022-06-06 12:51:28 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:51:28 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:51:28 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:51:28 --> Model Class Initialized
+DEBUG - 2022-06-06 12:51:28 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:51:28 --> Model Class Initialized
+INFO - 2022-06-06 12:51:28 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:51:28 --> Admin MX_Controller Initialized
+INFO - 2022-06-06 12:51:28 --> Upload Class Initialized
+INFO - 2022-06-06 12:51:28 --> Language file loaded: language/english/upload_lang.php
+ERROR - 2022-06-06 12:51:28 --> You did not select a file to upload.
+INFO - 2022-06-06 12:51:28 --> Config Class Initialized
+INFO - 2022-06-06 12:51:28 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:51:28 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:51:28 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:51:28 --> URI Class Initialized
+INFO - 2022-06-06 12:51:28 --> Router Class Initialized
+INFO - 2022-06-06 12:51:28 --> Output Class Initialized
+INFO - 2022-06-06 12:51:28 --> Security Class Initialized
+DEBUG - 2022-06-06 12:51:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:51:28 --> Input Class Initialized
+INFO - 2022-06-06 12:51:28 --> Language Class Initialized
+INFO - 2022-06-06 12:51:28 --> Language Class Initialized
+INFO - 2022-06-06 12:51:28 --> Config Class Initialized
+INFO - 2022-06-06 12:51:28 --> Loader Class Initialized
+INFO - 2022-06-06 12:51:28 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:51:28 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:51:28 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:51:28 --> Model Class Initialized
+DEBUG - 2022-06-06 12:51:28 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:51:28 --> Model Class Initialized
+INFO - 2022-06-06 12:51:28 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:51:28 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:51:28 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:51:28 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:51:28 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:51:28 --> Severity: Notice --> Undefined variable: c N:\Xampp\htdocs\dhired\application\modules\admin\views\add_socialmedia.php 70
+ERROR - 2022-06-06 12:51:28 --> Severity: Warning --> Invalid argument supplied for foreach() N:\Xampp\htdocs\dhired\application\modules\admin\views\add_socialmedia.php 70
+DEBUG - 2022-06-06 12:51:28 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_socialmedia.php
+DEBUG - 2022-06-06 12:51:28 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:51:28 --> Final output sent to browser
+DEBUG - 2022-06-06 12:51:28 --> Total execution time: 0.0391
+INFO - 2022-06-06 12:54:02 --> Config Class Initialized
+INFO - 2022-06-06 12:54:02 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:54:02 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:54:02 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:54:02 --> URI Class Initialized
+INFO - 2022-06-06 12:54:02 --> Router Class Initialized
+INFO - 2022-06-06 12:54:02 --> Output Class Initialized
+INFO - 2022-06-06 12:54:02 --> Security Class Initialized
+DEBUG - 2022-06-06 12:54:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:54:02 --> Input Class Initialized
+INFO - 2022-06-06 12:54:02 --> Language Class Initialized
+INFO - 2022-06-06 12:54:02 --> Language Class Initialized
+INFO - 2022-06-06 12:54:02 --> Config Class Initialized
+INFO - 2022-06-06 12:54:02 --> Loader Class Initialized
+INFO - 2022-06-06 12:54:02 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:54:02 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:54:02 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:54:02 --> Model Class Initialized
+DEBUG - 2022-06-06 12:54:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:54:02 --> Model Class Initialized
+INFO - 2022-06-06 12:54:02 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:54:02 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:54:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:54:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:54:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+ERROR - 2022-06-06 12:54:02 --> Severity: Notice --> Undefined variable: interest N:\Xampp\htdocs\dhired\application\modules\admin\views\add_socialmedia.php 72
+DEBUG - 2022-06-06 12:54:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_socialmedia.php
+DEBUG - 2022-06-06 12:54:02 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:54:02 --> Final output sent to browser
+DEBUG - 2022-06-06 12:54:02 --> Total execution time: 0.0477
+INFO - 2022-06-06 12:54:22 --> Config Class Initialized
+INFO - 2022-06-06 12:54:22 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:54:22 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:54:22 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:54:22 --> URI Class Initialized
+INFO - 2022-06-06 12:54:22 --> Router Class Initialized
+INFO - 2022-06-06 12:54:22 --> Output Class Initialized
+INFO - 2022-06-06 12:54:22 --> Security Class Initialized
+DEBUG - 2022-06-06 12:54:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:54:22 --> Input Class Initialized
+INFO - 2022-06-06 12:54:22 --> Language Class Initialized
+INFO - 2022-06-06 12:54:22 --> Language Class Initialized
+INFO - 2022-06-06 12:54:22 --> Config Class Initialized
+INFO - 2022-06-06 12:54:22 --> Loader Class Initialized
+INFO - 2022-06-06 12:54:22 --> Helper loaded: url_helper
+INFO - 2022-06-06 12:54:22 --> Database Driver Class Initialized
+INFO - 2022-06-06 12:54:22 --> Session: Class initialized using 'files' driver.
+INFO - 2022-06-06 12:54:22 --> Model Class Initialized
+DEBUG - 2022-06-06 12:54:22 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/models/Admin_model.php
+INFO - 2022-06-06 12:54:22 --> Model Class Initialized
+INFO - 2022-06-06 12:54:22 --> Controller Class Initialized
+DEBUG - 2022-06-06 12:54:22 --> Admin MX_Controller Initialized
+DEBUG - 2022-06-06 12:54:22 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/head.php
+DEBUG - 2022-06-06 12:54:22 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/header.php
+DEBUG - 2022-06-06 12:54:22 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/sidebar.php
+DEBUG - 2022-06-06 12:54:22 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin/views/add_socialmedia.php
+DEBUG - 2022-06-06 12:54:22 --> File loaded: N:\Xampp\htdocs\dhired\application\modules/admin_common/views/footer.php
+INFO - 2022-06-06 12:54:22 --> Final output sent to browser
+DEBUG - 2022-06-06 12:54:22 --> Total execution time: 0.0397
+INFO - 2022-06-06 12:54:22 --> Config Class Initialized
+INFO - 2022-06-06 12:54:22 --> Hooks Class Initialized
+DEBUG - 2022-06-06 12:54:22 --> UTF-8 Support Enabled
+INFO - 2022-06-06 12:54:22 --> Utf8 Class Initialized
+INFO - 2022-06-06 12:54:22 --> URI Class Initialized
+INFO - 2022-06-06 12:54:22 --> Router Class Initialized
+INFO - 2022-06-06 12:54:22 --> Output Class Initialized
+INFO - 2022-06-06 12:54:22 --> Security Class Initialized
+DEBUG - 2022-06-06 12:54:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-06-06 12:54:22 --> Input Class Initialized
+INFO - 2022-06-06 12:54:22 --> Language Class Initialized
+ERROR - 2022-06-06 12:54:22 --> 404 Page Not Found: /index
