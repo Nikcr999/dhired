@@ -50,7 +50,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
             <div class="col-xl-10 col-lg-12">
                 <div class="card">
                     <div class="card-header">
-                        <h4 class="card-title">Added Category</h4>
+                        <h4 class="card-title">Added Social Media</h4>
                     </div>
                     <div class="card-body">
                         <div class="table-responsive">

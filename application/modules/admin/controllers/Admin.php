@@ -120,7 +120,7 @@ class Admin extends MX_Controller {
 		if(isset($_POST) && !empty($_POST)){
 			if (isset($_FILES) && !empty($_FILES)) {
 				$var = date('dMY') . rand(1111, 9999);
-				$config['upload_path']          = './admin_assets/category/';
+				$config['upload_path']          = './admin_assets/category_logo/';
 				$config['allowed_types']        = 'jpg|jpeg|png|JPG|JPEG|PNG';
 				$config['file_name']            = $var;
 				$this->load->library('upload');

@@ -11,7 +11,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
         <div class="page-titles">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="javascript:void(0)">Admin</a></li>
-                <li class="breadcrumb-item active"><a href="javascript:void(0)">Add Category</a></li>
+                <li class="breadcrumb-item active"><a href="javascript:void(0)">Add SubCategory</a></li>
             </ol>
         </div>
         <!-- row -->
@@ -19,7 +19,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
             <div class="col-xl-10 col-lg-12">
                 <div class="card">
                     <div class="card-header">
-                        <h4 class="card-title">Add Category</h4>
+                        <h4 class="card-title">Add SubCategory</h4>
                     </div>
                     <div class="card-body">
                         <div class="basic-form">
@@ -36,7 +36,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                     </div>
                                     <div class="form-group col-md-10">
                                         <label>Select Category</label>
-                                        <select class="form-control " name="category_id" id="category" required>
+                                        <select class="form-control " name="category_id" id="category" style="color:grey" required>
                                             <option selected value="">Choose Category ....</option>
                                         </select>
                                     </div>

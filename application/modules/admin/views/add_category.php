@@ -60,10 +60,10 @@ defined('BASEPATH') or exit('No direct script access allowed');
         </div>
         <div class="row">
 
-            <div class="col-xl-10 col-lg-12">
+            <div class="col-xl-12 col-lg-12">
                 <div class="card">
                     <div class="card-header">
-                        <h4 class="card-title">Added Category</h4>
+                        <h4 class="card-title">Added Categories</h4>
                     </div>
                     <div class="card-body">
                         <div class="table-responsive">
@@ -84,7 +84,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                         <tr>
                                             <td><strong><?= $category['id'] ?></strong></td>
                                             <td><?= $category['i_title'] ?></td>
-                                            <td><img src="<?= base_url() ?>/admin_assets/interest_logo/<?= $interest['logo'] ?>" width="70" alt="logo"></td>
+                                            <td><img src="<?= base_url() ?>/admin_assets/category_logo/<?= $category['logo'] ?>" width="70" alt="logo"></td>
                                             <td><?= $category['cat_title'] ?></td>
                                             <td><?= $category['description'] ?></td>
                                             <td><?= $category['status'] ?></td>

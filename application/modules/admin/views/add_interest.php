@@ -51,10 +51,10 @@ defined('BASEPATH') or exit('No direct script access allowed');
         </div>
         <div class="row">
 
-            <div class="col-xl-10 col-lg-12">
+            <div class="col-xl-12 col-lg-12">
                 <div class="card">
                     <div class="card-header">
-                        <h4 class="card-title">Added States</h4>
+                        <h4 class="card-title">Added Interests</h4>
                     </div>
                     <div class="card-body">
                         <div class="table-responsive">

@@ -16,7 +16,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
         </div>
         <!-- row -->
         <div class="row">
-            <div class="col-xl-6 col-lg-12">
+            <div class="col-xl-8 col-lg-12">
                 <div class="card">
                     <div class="card-header">
                         <h4 class="card-title">Add City</h4>
@@ -58,7 +58,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
             <div class="col-xl-10 col-lg-12">
                 <div class="card">
                     <div class="card-header">
-                        <h4 class="card-title">Added City</h4>
+                        <h4 class="card-title">Added Cities</h4>
                     </div>
                     <div class="card-body">
                         <div class="table-responsive">
