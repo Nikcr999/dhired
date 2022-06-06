@@ -147,6 +147,8 @@ class Admin extends MX_Controller {
 	{
 		$social['soc'] = $this->Admin_model->get_socialmedia();
 		if(isset($_POST) && !empty($_POST)){
+			// print_r($_FILES);
+			// exit();
 			if (isset($_FILES) && !empty($_FILES)) {
 				$var = date('dMY') . rand(1111, 9999);
 				$config['upload_path']          = './admin_assets/social/';

@@ -31,7 +31,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                     </div>
                                     <div class="form-group col-md-10">
                                         <label>Icon</label>
-                                        <input type="file" name="Icon" placeholder="Upload Icon" class="dropify">
+                                        <input type="file" name="icon" placeholder="Upload Icon" class="dropify">
                                     </div>
                                     <div class="form-group col-md-10 ">
                                         <label>Status</label>
@@ -69,7 +69,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                     <?php foreach ($soc as $social) { ?>
                                         <tr>
                                             <td><strong><?= $social['id'] ?></strong></td>
-                                            <td><img src="<?= base_url() ?>/admin_assets/interest_logo/<?= $social['icon'] ?>" width="70" alt="logo"></td>
+                                            <td><img src="<?= base_url() ?>/admin_assets/social/<?= $social['icon'] ?>" width="70" alt="logo"></td>
                                             <td><?= $social['name'] ?></td>
                                             <td><?= $social['status'] ?></td>
                                             <td>
