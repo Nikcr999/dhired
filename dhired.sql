@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 06, 2022 at 04:50 PM
+-- Generation Time: Jun 06, 2022 at 05:43 PM
 -- Server version: 5.6.16
 -- PHP Version: 5.5.9
 
@@ -34,18 +34,19 @@ CREATE TABLE IF NOT EXISTS `category` (
   `description` mediumtext,
   `status` varchar(200) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=6 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=7 ;
 
 --
 -- Dumping data for table `category`
 --
 
 INSERT INTO `category` (`id`, `interest_id`, `title`, `logo`, `description`, `status`) VALUES
-(1, 1, 'Front End', '06Jun20226260', 'Front end description', '1'),
-(2, 1, 'Back End', '06Jun20229247', 'Back end Description', '1'),
-(3, 1, 'Full Stack', '06Jun20223640', 'Full stack description', '1'),
-(4, 2, 'Poster', '06Jun20222930', 'Poster Description', '0'),
-(5, 2, 'card', '06Jun20222269', 'Menu card Description', '0');
+(1, 1, 'Front End', '06Jun20225387.jpg', 'Front end description', '1'),
+(2, 1, 'Back End', '06Jun20222534.png', 'Back end Description', '1'),
+(3, 1, 'Full Stack', '06Jun20225200.jpg', 'Full stack description', '1'),
+(4, 2, 'Poster', '06Jun20221832.png', 'Poster Description', '0'),
+(5, 2, 'card', '06Jun20228679.png', 'Menu card Description', '0'),
+(6, 1, 'cat', '06Jun20222555.png', 'zdfdsf', 'df');
 
 -- --------------------------------------------------------
 
@@ -209,12 +210,12 @@ CREATE TABLE IF NOT EXISTS `subcategory` (
 --
 
 INSERT INTO `subcategory` (`id`, `interest_id`, `category_id`, `title`, `description`) VALUES
-(1, 1, 2, 'Java', '<p>Java Description<br></p>'),
-(2, 1, 1, 'Html', '<p>html Description<br></p>'),
-(3, 1, 3, 'Python', '<p>Python description<br></p>'),
-(4, 1, 1, 'css', '<p>css description<br></p>'),
-(5, 2, 5, 'wedding card', '<p>wedding card description<br></p>'),
-(6, 2, 5, 'Birthday card', '<p>Birthday card description<br></p>');
+(1, 1, 2, 'Java', 'Java Description'),
+(2, 1, 1, 'Html', 'html Description'),
+(3, 1, 3, 'Python', 'Python description'),
+(4, 1, 1, 'css', 'css description'),
+(5, 2, 5, 'wedding card', 'wedding card description'),
+(6, 2, 5, 'Birthday card', 'Birthday card description');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
