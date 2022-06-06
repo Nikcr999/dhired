@@ -31,11 +31,11 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                     </div>
                                     <div class="form-group col-md-10">
                                         <label>Icon</label>
-                                        <input type="file" name="icon" placeholder="Upload Icon" class="dropify">
+                                        <input type="file" name="icon" placeholder="Upload Icon" class="dropify" required>
                                     </div>
                                     <div class="form-group col-md-10 ">
                                         <label>Status</label>
-                                        <input name="status" type="text" class="form-control" placeholder="Enter Status" />
+                                        <input name="status" type="text" class="form-control" placeholder="Enter Status" required/>
                                     </div>
                                     <button type="submit" class="btn btn-primary">ADD Social Media</button>
                                 </form>

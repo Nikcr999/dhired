@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 06, 2022 at 01:10 PM
+-- Generation Time: Jun 06, 2022 at 04:50 PM
 -- Server version: 5.6.16
 -- PHP Version: 5.5.9
 
@@ -41,11 +41,11 @@ CREATE TABLE IF NOT EXISTS `category` (
 --
 
 INSERT INTO `category` (`id`, `interest_id`, `title`, `logo`, `description`, `status`) VALUES
-(1, 1, 'Front End', '06Jun20226260', '<p>Front end description<br></p>', '1'),
-(2, 1, 'Back End', '06Jun20229247', '<p>Back end Description<br></p>', '1'),
-(3, 1, 'Full Stack', '06Jun20223640', '<p>Full stack description<br></p>', '1'),
-(4, 2, 'Poster', '06Jun20222930', '<p>Poster Description<br></p>', '0'),
-(5, 2, 'card', '06Jun20222269', '<p>Menu card Description<br></p>', '0');
+(1, 1, 'Front End', '06Jun20226260', 'Front end description', '1'),
+(2, 1, 'Back End', '06Jun20229247', 'Back end Description', '1'),
+(3, 1, 'Full Stack', '06Jun20223640', 'Full stack description', '1'),
+(4, 2, 'Poster', '06Jun20222930', 'Poster Description', '0'),
+(5, 2, 'card', '06Jun20222269', 'Menu card Description', '0');
 
 -- --------------------------------------------------------
 
@@ -59,7 +59,7 @@ CREATE TABLE IF NOT EXISTS `city` (
   `state_id` int(11) DEFAULT NULL,
   `name` varchar(200) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=6 ;
 
 --
 -- Dumping data for table `city`
@@ -68,7 +68,9 @@ CREATE TABLE IF NOT EXISTS `city` (
 INSERT INTO `city` (`id`, `country_id`, `state_id`, `name`) VALUES
 (1, 1, 3, 'New Delhi'),
 (2, 1, 2, 'Raipur'),
-(3, 2, 1, 'Ws city');
+(3, 2, 1, 'Ws city'),
+(4, 1, 2, 'Bhilai'),
+(5, 1, 2, 'Korba');
 
 -- --------------------------------------------------------
 
@@ -87,7 +89,16 @@ CREATE TABLE IF NOT EXISTS `community` (
   `category_id` int(11) NOT NULL,
   `subcategory_id` int(11) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+
+--
+-- Dumping data for table `community`
+--
+
+INSERT INTO `community` (`id`, `title`, `description`, `country_id`, `state_id`, `city_id`, `interest_id`, `category_id`, `subcategory_id`) VALUES
+(1, 'Developer Community', 'Developer Community Description', 1, 2, 4, 1, 1, 4),
+(2, 'Test', 'Testing', 1, 2, 2, 1, 1, 2),
+(3, 'Test2', 'Description 2', 1, 3, 1, 1, 2, 1);
 
 -- --------------------------------------------------------
 
@@ -131,9 +142,9 @@ CREATE TABLE IF NOT EXISTS `interest` (
 --
 
 INSERT INTO `interest` (`id`, `logo`, `title`, `description`, `status`) VALUES
-(1, '06Jun20224997.jpg', 'Development', '<p>Development Description</p>', '0'),
-(2, '06Jun20224925.jpg', 'Design', '<p><span style="background-color: rgb(255, 255, 0);"><font color="#000000">Design description</font></span><br></p>', '1'),
-(3, '06Jun20229915.png', 'Data Science', '<p>Data Science Description<br></p>', '1');
+(1, '06Jun20224997.jpg', 'Development', 'Development Description', '0'),
+(2, '06Jun20224925.jpg', 'Design', 'Design description', '1'),
+(3, '06Jun20229915.png', 'Data Science', 'Data Science Description', '1');
 
 -- --------------------------------------------------------
 

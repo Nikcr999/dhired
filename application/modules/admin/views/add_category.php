@@ -40,15 +40,15 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                     </div>
                                     <div class="form-group col-md-10">
                                         <label>Logo</label>
-                                        <input type="file" name="logo" placeholder="Upload Logo" class="dropify">
+                                        <input type="file" name="logo" placeholder="Upload Logo" class="dropify" required>
                                     </div>
                                     <div class="form-group col-md-10">
                                         <label>Description</label>
-                                        <textarea class="summernote" name="description" placeholder="Enter Description"></textarea>
+                                        <textarea class="form-control" rows="4" name="description" placeholder="Enter Description" required></textarea>
                                     </div>
                                     <div class="form-group col-md-10 ">
                                         <label>Status</label>
-                                        <input name="status" type="text" class="form-control" placeholder="Enter Status" />
+                                        <input name="status" type="text" class="form-control" placeholder="Enter Status" required/>
                                     </div>
                                     <button type="submit" class="btn btn-primary">ADD Category</button>
                                 </form>

@@ -56,7 +56,16 @@ class Admin_model extends CI_Model
         $this->db->from('city as ci');
         $this->db->join('country as c','c.id = ci.country_id','left');
         $this->db->join('state as s','s.id = ci.state_id','left');
-        $this->db->order_by('c.id');
+        $this->db->order_by('ci.id');
+        return $this->db->get()->result_array();
+    }
+    public function fetch_city($val)
+    {
+        $this->db->select('ci.id,ci.name');
+        $this->db->from('city as ci');
+        $this->db->join('state as s','s.id = ci.state_id','left');
+        $this->db->order_by('ci.id');
+        $this->db->where('s.id',$val);
         return $this->db->get()->result_array();
     }
     public function add_city($val)
@@ -94,6 +103,16 @@ class Admin_model extends CI_Model
     {
         return  $this->insert_data('category', $val);
     }
+    public function fetch_subcategory($val)
+    {
+        $this->db->select('subcat.id,subcat.title');
+        $this->db->from('subcategory as subcat');
+        $this->db->join('category as cat','cat.id = subcat.category_id','left');
+        $this->db->order_by('subcat.id');
+        $this->db->where('cat.id',$val);
+        return $this->db->get()->result_array();
+       
+    }
     public function get_subcategory()
     {
         $this->db->select('subcat.id,i.title as i_title , cat.title as cat_title , subcat.title as subcat_title , subcat.description');
@@ -115,5 +134,22 @@ class Admin_model extends CI_Model
     public function add_socialmedia($val)
     {
         return  $this->insert_data('socialmedia', $val);
+    }
+    public function get_community()
+    {
+        $this->db->select('com.id,com.title as com_title,com.description,c.name as c_name,s.name as s_name,ci.name as ci_name,i.title as i_title, cat.title as cat_title, subcat.title as subcat_title');
+        $this->db->from('community as com');
+        $this->db->join('country as c','c.id = com.country_id','left');
+        $this->db->join('state as s','s.id = com.state_id','left');
+        $this->db->join('city as ci','ci.id = com.city_id','left');
+        $this->db->join('interest as i','i.id = com.interest_id','left');
+        $this->db->join('category as cat','cat.id = com.category_id','left');
+        $this->db->join('subcategory as subcat','subcat.id = com.subcategory_id','left');
+        $this->db->order_by('com.id');
+        return $this->db->get()->result_array();
+    }
+    public function add_community($val)
+    {
+        return  $this->insert_data('community', $val);
     }
 }

@@ -37,7 +37,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                     <div class="form-group col-md-10">
                                         <label>Select Category</label>
                                         <select class="form-control " name="category_id" id="category" required>
-                                            <option selected  value="">Choose Interest ....</option>
+                                            <option selected value="">Choose Category ....</option>
                                         </select>
                                     </div>
                                     <div class="form-group col-md-10">
@@ -46,7 +46,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                     </div>
                                     <div class="form-group col-md-10">
                                         <label>Description</label>
-                                        <textarea class="summernote" name="description" placeholder="Enter Description"></textarea>
+                                        <textarea class="form-control" rows="4" name="description" placeholder="Enter Description" required></textarea>
                                     </div>
                                     <button type="submit" class="btn btn-primary">ADD Subcategory</button>
                                 </form>
@@ -104,7 +104,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 <!--**********************************
             Content body end
         ***********************************-->
-        <script>
+<script>
     function fetch_category() {
         iid = document.getElementById("interest").value;
         // alert(iid);

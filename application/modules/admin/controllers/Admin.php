@@ -48,6 +48,16 @@ class Admin extends MX_Controller {
 		$this->load->view('add_state',$state);
 		$this->load->view('admin_common/footer');
 	}
+	public function fetch_city()
+	{
+		if(isset($_POST) && !empty($_POST)){
+			$d = $this->Admin_model->fetch_city($_POST['state_id']);
+			// echo $d;
+			foreach($d as $details){
+				echo '<option value="'.$details['id'].'">'.$details['name'].'</option>';
+			}
+		}
+	}
 	public function add_city()
 	{
 		$city['c'] = $this->Admin_model->get_country();
@@ -129,6 +139,16 @@ class Admin extends MX_Controller {
 		$this->load->view('add_category',$category);
 		$this->load->view('admin_common/footer');
 	}
+	public function fetch_subcategory()
+	{
+		if(isset($_POST) && !empty($_POST)){
+			$d = $this->Admin_model->fetch_subcategory($_POST['category_id']);
+			// echo $d;
+			foreach($d as $details){
+				echo '<option value="'.$details['id'].'">'.$details['title'].'</option>';
+			}
+		}
+	}
 	public function add_subcategory()
 	{
 		$subcategory['i'] = $this->Admin_model->get_interest();
@@ -173,5 +193,21 @@ class Admin extends MX_Controller {
 		$this->load->view('add_socialmedia',$social);
 		$this->load->view('admin_common/footer');
 	}
-
+	public function add_community()
+	{
+		$community['c'] = $this->Admin_model->get_country();
+		$community['i'] = $this->Admin_model->get_interest();
+		$community['com'] = $this->Admin_model->get_community();
+		// print_r($community['com']);
+		// exit();
+		if(isset($_POST) && !empty($_POST)){
+			$this->Admin_model->add_community($_POST);
+			redirect('admin/add_community');
+		}
+		$this->load->view('admin_common/head');
+		$this->load->view('admin_common/header');
+		$this->load->view('admin_common/sidebar');
+		$this->load->view('add_community',$community);
+		$this->load->view('admin_common/footer');
+	}
 }
