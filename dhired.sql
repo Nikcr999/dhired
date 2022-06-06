@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 06, 2022 at 01:01 PM
+-- Generation Time: Jun 06, 2022 at 01:10 PM
 -- Server version: 5.6.16
 -- PHP Version: 5.5.9
 
@@ -154,7 +154,7 @@ CREATE TABLE IF NOT EXISTS `socialmedia` (
 --
 
 INSERT INTO `socialmedia` (`id`, `name`, `icon`, `status`) VALUES
-(1, 'Linkdin', '06Jun20222120', '1');
+(1, 'Linkdin', '06Jun20223052.png', '1');
 
 -- --------------------------------------------------------
 
