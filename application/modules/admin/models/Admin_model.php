@@ -152,6 +152,19 @@ class Admin_model extends CI_Model
     {
         return  $this->insert_data('community', $val);
     }
+    public function get_group()
+    {
+        $this->db->select('gr.id ,gr.name,gr.url,gr.description,gr.type,gr.fees,gr.status,com.title as c_title,soc.name as s_name');
+        $this->db->from('group as gr');
+        $this->db->join('community as com','com.id = gr.community_id','left');
+        $this->db->join('socialmedia as soc','soc.id = gr.social_id','left');
+        return $this->db->get()->result_array();
+
+    }
+    public function add_group($val)
+    {
+        return  $this->insert_data('group', $val);
+    }
     public function count_interest()
     {
         return count($this->get_data('interest'));

@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                     </div>
                     <div class="card-body">
                         <div class="basic-form">
-                            <form action="" method="post">
+                            <form action="" method="post" >
                                 <div class="form-row">
                                     <div class="form-group col-md-10">
                                         <label>Title</label>
@@ -67,13 +67,13 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                     </div>
                                     <div class="form-group col-md-10">
                                         <label>Select Category</label>
-                                        <select onchange="fetch_subcategory_for_community()" class="form-control " name="category_id" id="category" required>
+                                        <select onchange="fetch_subcategory_for_community()" class="form-control " style="color:grey" name="category_id" id="category" required>
                                             <option selected  value="">Choose Category ....</option>
                                         </select>
                                     </div>
                                     <div class="form-group col-md-10">
                                         <label>Select Subcategory</label>
-                                        <select class="form-control " name="subcategory_id" id="subcategory" required>
+                                        <select class="form-control " name="subcategory_id" id="subcategory" style="color:grey" required>
                                             <option selected  value="">Choose Subcategory ....</option>
                                         </select>
                                     </div>

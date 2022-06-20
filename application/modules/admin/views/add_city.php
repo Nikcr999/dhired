@@ -43,7 +43,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                     </div>
                                     <div class="form-group col-md-10">
                                         <label>City Name</label>
-                                        <input type="text" name="name" class="form-control" placeholder="Enter City Name" required>
+                                        <input type="text" name="name" class="form-control" placeholder="Enter City Name" style="color:grey" required>
                                     </div>
                                 </div>
                                 <button type="submit" class="btn btn-primary">ADD City</button>

@@ -51,6 +51,11 @@ defined('BASEPATH') or exit('No direct script access allowed');
 					<span class="nav-text">Community</span>
 				</a>
 			</li>
+			<li><a class="ai-icon" href="<?= base_url('admin/add_group') ?>" aria-expanded="false">
+					<i class="fa fa-object-group"></i>
+					<span class="nav-text">Group</span>
+				</a>
+			</li>
 			<!-- <li><a href="widget-basic.html" class="ai-icon" aria-expanded="false">
 					<i class="flaticon-381-settings-2"></i>
 					<span class="nav-text">Widget</span>

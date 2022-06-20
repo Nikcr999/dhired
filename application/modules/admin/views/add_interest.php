@@ -27,7 +27,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                 <form action="" method="post" enctype="multipart/form-data">
                                     <div class="form-group col-md-10">
                                         <label>Title</label>
-                                        <input type="text" name="title" class="form-control" placeholder="Enter title" required>
+                                        <input type="text" name="title" class="form-control" placeholder="Enter title" style="color:grey" required>
                                     </div>
                                     <div class="form-group col-md-10">
                                         <label>Logo</label>
@@ -35,11 +35,11 @@ defined('BASEPATH') or exit('No direct script access allowed');
                                     </div>
                                     <div class="form-group col-md-10">
                                         <label>Description</label>
-                                        <textarea class="form-control" rows="4" name="description" placeholder="Enter Description" required></textarea>
+                                        <textarea class="form-control" rows="4" name="description" placeholder="Enter Description" style="color:grey" required></textarea>
                                     </div>
                                     <div class="form-group col-md-10 ">
                                         <label>Status</label>
-                                        <input name="status" type="text" class="form-control" placeholder="Enter Status" required />
+                                        <input name="status" type="text" class="form-control" placeholder="Enter Status"  style="color:grey" required />
                                     </div>
                                     <button type="submit" class="btn btn-primary">ADD Interest</button>
                                 </form>
