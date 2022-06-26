@@ -263,13 +263,52 @@ class Admin extends MX_Controller
 	{
 		$group['gr'] = $this->Admin_model->get_group();
 		$group['comm'] = $this->db->get_where('community')->result_array();
-		$group['soc'] = $this->db->get_where('socialmedia')->result_array();
+		// $group['soc'] = $this->db->get_where('socialmedia')->result_array();
 		if (isset($_POST) && !empty($_POST)) {
 			$grp = count($this->db->get_where('group', array('name' => $this->input->post('name')))->result_array());
 			if ($grp) {
 				// $this->session->set_userdata('msg','Already Exists');
 			} else {
-				$this->Admin_model->add_group($_POST);
+				$wa = array(
+					'name' => $_POST['name'],
+					'community_id' => $_POST['community_id'],
+					'url' => $_POST['w_url'],
+					'description' => $_POST['w_description'],
+					'type' => $_POST['w_type'],
+					'fees' => $_POST['w_fees'],
+					'status' => $_POST['w_status']
+				);
+				$fb = array(
+					'name' => $_POST['name'],
+					'community_id' => $_POST['community_id'],
+					'url' => $_POST['f_url'],
+					'description' => $_POST['f_description'],
+					'type' => $_POST['f_type'],
+					'fees' => $_POST['f_fees'],
+					'status' => $_POST['f_status']
+				);
+				$ld = array(
+					'name' => $_POST['name'],
+					'community_id' => $_POST['community_id'],
+					'url' => $_POST['l_url'],
+					'description' => $_POST['l_description'],
+					'type' => $_POST['l_type'],
+					'fees' => $_POST['l_fees'],
+					'status' => $_POST['l_status']
+				);
+				$tg = array(
+					'name' => $_POST['name'],
+					'community_id' => $_POST['community_id'],
+					'url' => $_POST['t_url'],
+					'description' => $_POST['t_description'],
+					'type' => $_POST['t_type'],
+					'fees' => $_POST['t_fees'],
+					'status' => $_POST['t_status']
+				);
+				$this->Admin_model->add_whatsapp_group($wa);
+				$this->Admin_model->add_facebook_group($fb);
+				$this->Admin_model->add_linkdin_group($ld);
+				$this->Admin_model->add_telegram_group($tg);
 				redirect('admin/add_group');
 			}
 		}
@@ -277,6 +316,24 @@ class Admin extends MX_Controller
 		$this->load->view('admin_common/header');
 		$this->load->view('admin_common/sidebar');
 		$this->load->view('add_group', $group);
+		$this->load->view('admin_common/footer');
+	}
+	public function individual_list()
+	{
+		$ind['in'] = $this->Admin_model->get_individual_list();
+		$this->load->view('admin_common/head');
+		$this->load->view('admin_common/header');
+		$this->load->view('admin_common/sidebar');
+		$this->load->view('individual_list',$ind);
+		$this->load->view('admin_common/footer');
+	}
+	public function company_list()
+	{
+		$com['co'] = $this->Admin_model->get_company_list();
+		$this->load->view('admin_common/head');
+		$this->load->view('admin_common/header');
+		$this->load->view('admin_common/sidebar');
+		$this->load->view('company_list',$com);
 		$this->load->view('admin_common/footer');
 	}
 }

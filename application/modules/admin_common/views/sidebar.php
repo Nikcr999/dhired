@@ -56,6 +56,16 @@ defined('BASEPATH') or exit('No direct script access allowed');
 					<span class="nav-text">Group</span>
 				</a>
 			</li>
+			<li><a class="ai-icon" href="<?= base_url('admin/individual_list') ?>" aria-expanded="false">
+					<i class="fa fa-user"></i>
+					<span class="nav-text">Individual</span>
+				</a>
+			</li>
+			<li><a class="ai-icon" href="<?= base_url('admin/company_list') ?>" aria-expanded="false">
+					<i class="fa fa-building-o"></i>
+					<span class="nav-text">Company</span>
+				</a>
+			</li>
 			<!-- <li><a href="widget-basic.html" class="ai-icon" aria-expanded="false">
 					<i class="flaticon-381-settings-2"></i>
 					<span class="nav-text">Widget</span>

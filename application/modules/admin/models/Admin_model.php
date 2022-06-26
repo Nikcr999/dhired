@@ -161,9 +161,43 @@ class Admin_model extends CI_Model
         return $this->db->get()->result_array();
 
     }
-    public function add_group($val)
+    public function add_whatsapp_group($val)
     {
         return  $this->insert_data('group', $val);
+    }
+    public function add_facebook_group($val)
+    {
+        return  $this->insert_data('group', $val);
+    }
+    public function add_linkdin_group($val)
+    {
+        return  $this->insert_data('group', $val);
+    }
+    public function add_telegram_group($val)
+    {
+        return  $this->insert_data('group', $val);
+    }
+    public function get_individual_list()
+    {
+        $this->db->select('reg.id,reg.name as r_name ,reg.email,reg.mobile,c.name as c_name,s.name as s_name,ci.name as ci_name,i.title as i_name ,reg.company_name,reg.designation');
+        $this->db->from('register as reg');
+        $this->db->join('country as c','c.id = reg.country_id','left');
+        $this->db->join('state as s','s.id = reg.state_id','left');
+        $this->db->join('city as ci','ci.id = reg.city_id','left');
+        $this->db->join('interest as i','i.id = reg.interest_id','left');
+        $this->db->where('reg.you_are','individual');
+        return $this->db->get()->result_array();
+    }
+    public function get_company_list()
+    {
+        $this->db->select('reg.id,reg.name as r_name ,reg.email,reg.mobile,c.name as c_name,s.name as s_name,ci.name as ci_name,i.title as i_name ,reg.company_name,reg.designation');
+        $this->db->from('register as reg');
+        $this->db->join('country as c','c.id = reg.country_id','left');
+        $this->db->join('state as s','s.id = reg.state_id','left');
+        $this->db->join('city as ci','ci.id = reg.city_id','left');
+        $this->db->join('interest as i','i.id = reg.interest_id','left');
+        $this->db->where('reg.you_are','company');
+        return $this->db->get()->result_array();
     }
     public function count_interest()
     {
